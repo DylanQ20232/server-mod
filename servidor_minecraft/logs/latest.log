@@ -3859,3 +3859,39 @@ Caused by: java.lang.UnsupportedClassVersionError: uk/antiperson/stackmob/StackM
 [19:31:09] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player e4f7aaa7-bf5c-31ab-b0c2-205996c706f1
 [19:31:10] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player e4f7aaa7-bf5c-31ab-b0c2-205996c706f1
 [19:31:10] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player paulzhb (e4f7aaa7-bf5c-31ab-b0c2-205996c706f1) successfully connected to voice chat
+[19:32:51] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: paulzhb lost connection: Disconnected
+[19:32:51] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client paulzhb
+[19:32:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: paulzhb left the game
+[19:33:12] [Server thread/INFO] [sereneseasons/]: Season time skipped by 6204 in minecraft:the_nether
+[19:33:12] [Server thread/INFO] [sereneseasons/]: Season time skipped by 6204 in minecraft:the_end
+[19:33:12] [Server thread/INFO] [sereneseasons/]: Season time skipped by 6204 in lostcities:lostcity
+[19:33:12] [Server thread/INFO] [sereneseasons/]: Season time skipped by 6204 in minecraft:overworld
+[19:34:38] [User Authenticator #16/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player paulzhb is e4f7aaa7-bf5c-31ab-b0c2-205996c706f1
+[19:34:39] [Netty Epoll Server IO #2/INFO] [net.minecraftforge.fml.network.FMLHandshakeHandler/]: Client attempting to join with 98 mods : notenoughcrashes, betterdungeons, auudio, unionlib, k-turrets, supermartijn642configlib, iv_tcp_v3, transliterationlib, cure, philips_ruins1_16_5, jei, incontrol, satako, tac, journeymap, controlling, comforts, travelersbackpack, sereneseasons, yungsapi, mutantbeasts, bookshelf, badmobs, farsightedmobs, sophisticatedbackpacks, mapperbase, food_cans, mts, hordes, firstaid, forge, dummmmmmy, emojiful, iv_tpp, konkrete, dsurround, sndctrl, environs, mobeffects, selene, chipped, minecraft, farmersdelight, mtsofficialpack, horsecombatcontrols, dustrial_decor, voicechat, enchdesc, swingthroughgrass, mousetweaks, toolbelt, geode, entity_culling, shouldersurfing, bunker_down, supermartijn642corelib, zombie_drops_, notenoughanimations, curios, gravestone, collective, roadstuff, mobsunscreen, appletreesrev, advancednetherite, polymorph, securitycraft, betterthirdperson, lostcities, survive, obfuscate, betterstrongholds, ambientenvironment, bear_trap, fancymenu, atlaslib, worldedit, starterkit, eatinganimation, coroutil, onlylooking, blood_and_gore, cfm, appleskin, lootr, engineersdecor, firstjoinmessage, cloth-config, nefdecomod, enhancedcelestials, trashcans, detailab, letmedespawn, fastleafdecay, bettermineshafts, fmextension_audio, exlinefurniture, effortlessbuilding
+[19:34:43] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: paulzhb[/127.188.24.236:34587] logged in with entity id 37,670 at (-468.176, 34.031, -2,230.094)
+[19:34:43] [Server thread/INFO] [tac/]: PENDING
+[19:34:44] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of paulzhb (18)
+[19:34:44] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to paulzhb
+[19:34:53] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player e4f7aaa7-bf5c-31ab-b0c2-205996c706f1
+[19:34:54] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player e4f7aaa7-bf5c-31ab-b0c2-205996c706f1
+[19:34:54] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player paulzhb (e4f7aaa7-bf5c-31ab-b0c2-205996c706f1) successfully connected to voice chat
+[19:34:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Squarewar has made the advancement [Monster Hunter]
+[19:35:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AugustoGamer_YT overworked themself to death
+[19:35:43] [Server thread/INFO] [tac/]: PENDING
+[19:36:51] [Server thread/ERROR] [noobanidus.mods.lootr.Lootr/]: Unable to fill loot chest in ResourceKey[minecraft:dimension / minecraft:overworld] at BlockPos{x=-701, y=69, z=-682} as the loot table 'minecraft:chests/village_fletcher' couldn't be resolved! Please search the loot table in `latest.log` to see if there are errors in loading.
+[19:36:56] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-654, y=33, z=-2625} but found not block entity block Block{minecraft:stone} at location
+[19:36:56] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-658, y=33, z=-2625} but found not block entity block Block{minecraft:stone} at location
+[19:37:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AugustoGamer_YT was shot by Pillager
+[19:37:28] [Server thread/INFO] [tac/]: PENDING
+[19:39:08] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-335, y=45, z=-2603} but found not block entity block Block{minecraft:stone} at location
+[19:39:08] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-335, y=45, z=-2604} but found not block entity block Block{minecraft:stone} at location
+[19:39:08] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-335, y=45, z=-2607} but found not block entity block Block{minecraft:diorite} at location
+[19:39:08] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-333, y=46, z=-2606} but found not block entity block Block{minecraft:stone} at location
+[19:39:08] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-335, y=45, z=-2606} but found not block entity block Block{minecraft:stone} at location
+[19:39:10] [Worker-Main-49/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id goblintraders:goblin_trader
+[19:39:10] [Worker-Main-49/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id wyrmroost:roost_stalker
+[19:39:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: paulzhb could't stand the heat
+[19:39:12] [Server thread/INFO] [tac/]: PENDING
+[19:39:26] [Worker-Main-48/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id nefdecomod:illager_lady_entity
+[19:39:26] [Worker-Main-48/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id nefdecomod:old_villager
+[19:41:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Squarewar fell from a high place

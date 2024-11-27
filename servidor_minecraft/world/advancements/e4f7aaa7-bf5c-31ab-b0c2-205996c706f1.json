@@ -149,6 +149,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/diorite_table": {
+    "criteria": {
+      "has_planks": "2024-11-27 19:35:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_button": {
     "criteria": {
       "has_planks": "2024-11-27 19:29:09 +0000"
@@ -206,6 +212,12 @@
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2024-11-27 19:19:56 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/diorite_chair": {
+    "criteria": {
+      "has_planks": "2024-11-27 19:35:15 +0000"
     },
     "done": true
   },
@@ -828,6 +840,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2024-11-27 19:35:15 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/dark_oak_upgraded_gate": {
     "criteria": {
       "has_log": "2024-11-27 19:24:00 +0000"
@@ -843,6 +861,12 @@
   "securitycraft:recipes/securitycraft/universal_key_changer": {
     "criteria": {
       "has_redstone": "2024-11-27 18:49:35 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/diorite_desk": {
+    "criteria": {
+      "has_planks": "2024-11-27 19:35:15 +0000"
     },
     "done": true
   },
@@ -1134,6 +1158,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2024-11-27 19:35:15 +0000"
+    },
+    "done": true
+  },
   "comforts:rope_and_nail": {
     "criteria": {
       "has_iron": "2024-11-27 18:34:35 +0000"
@@ -1221,6 +1251,12 @@
   "minecraft:recipes/tools/golden_pickaxe": {
     "criteria": {
       "has_gold_ingot": "2024-11-27 19:12:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/diorite_wall": {
+    "criteria": {
+      "has_diorite": "2024-11-27 19:35:15 +0000"
     },
     "done": true
   },
@@ -1357,6 +1393,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/diorite_coffee_table": {
+    "criteria": {
+      "has_planks": "2024-11-27 19:35:15 +0000"
+    },
+    "done": true
+  },
   "roadstuff:recipes/roadstuff_group/red_traffic_barrel": {
     "criteria": {
       "has_bitumen": "2024-11-27 18:31:45 +0000"
@@ -1444,6 +1486,12 @@
   "advancednetherite:recipes/advancednetherite.tab/netherite_diamond_ingot": {
     "criteria": {
       "has_OptionalNamedTag[forge:gems/diamond]": "2024-11-27 19:12:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite": {
+    "criteria": {
+      "has_stone": "2024-11-27 19:35:15 +0000"
     },
     "done": true
   },
@@ -1564,6 +1612,12 @@
   "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
       "has_gold_ingot": "2024-11-27 19:12:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2024-11-27 19:35:15 +0000"
     },
     "done": true
   },
@@ -1719,7 +1773,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "apple": "2024-11-27 18:41:07 +0000"
+      "apple": "2024-11-27 18:41:07 +0000",
+      "golden_apple": "2024-11-27 19:32:44 +0000"
     },
     "done": false
   },
@@ -1774,6 +1829,12 @@
   "minecraft:recipes/building_blocks/cobblestone_stairs": {
     "criteria": {
       "has_cobblestone": "2024-11-27 18:43:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_slab": {
+    "criteria": {
+      "has_diorite": "2024-11-27 19:35:15 +0000"
     },
     "done": true
   },
@@ -1912,6 +1973,12 @@
   "cfm:recipes/cfm/dark_oak_cabinet": {
     "criteria": {
       "has_log": "2024-11-27 19:24:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2024-11-27 19:35:15 +0000"
     },
     "done": true
   },
@@ -2485,6 +2552,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite_stairs": {
+    "criteria": {
+      "has_diorite": "2024-11-27 19:35:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2024-11-27 19:14:28 +0000"
@@ -2509,6 +2582,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/diorite_desk_cabinet": {
+    "criteria": {
+      "has_planks": "2024-11-27 19:35:15 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/universal_block_reinforcer_lvl3": {
     "criteria": {
       "has_redstone": "2024-11-27 18:49:35 +0000"
@@ -2518,6 +2597,12 @@
   "cfm:recipes/cfm/oak_table": {
     "criteria": {
       "has_log": "2024-11-27 18:29:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite": {
+    "criteria": {
+      "has_stone": "2024-11-27 19:35:15 +0000"
     },
     "done": true
   },
@@ -2668,6 +2753,12 @@
   "minecraft:recipes/redstone/oak_button": {
     "criteria": {
       "has_planks": "2024-11-27 18:29:45 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/diorite_bedside_cabinet": {
+    "criteria": {
+      "has_planks": "2024-11-27 19:35:15 +0000"
     },
     "done": true
   },
@@ -2920,6 +3011,12 @@
   "mapperbase:recipes/mapperbase_group/bitumen_block": {
     "criteria": {
       "has_raw_bitumen": "2024-11-27 18:31:45 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/diorite_cabinet": {
+    "criteria": {
+      "has_planks": "2024-11-27 19:35:15 +0000"
     },
     "done": true
   },

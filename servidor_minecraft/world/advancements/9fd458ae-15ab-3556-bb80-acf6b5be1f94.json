@@ -497,6 +497,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:skeleton": "2024-11-27 19:34:57 +0000"
+    },
+    "done": false
+  },
   "roadstuff:recipes/roadstuff_group/yellow_bollard": {
     "criteria": {
       "has_stick": "2024-11-27 18:45:48 +0000"
@@ -989,6 +995,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:skeleton": "2024-11-27 19:34:57 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/camera_monitor": {
     "criteria": {
       "has_iron": "2024-11-27 19:10:32 +0000"
@@ -1014,6 +1026,7 @@
       "minecraft:mountains": "2024-11-27 19:03:39 +0000",
       "minecraft:taiga": "2024-11-27 18:55:30 +0000",
       "minecraft:jungle": "2024-11-27 18:36:17 +0000",
+      "minecraft:savanna_plateau": "2024-11-27 19:27:22 +0000",
       "minecraft:river": "2024-11-27 18:36:08 +0000",
       "minecraft:wooded_hills": "2024-11-27 18:38:21 +0000",
       "minecraft:savanna": "2024-11-27 19:26:07 +0000",
@@ -1449,7 +1462,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "apple": "2024-11-27 18:58:13 +0000"
+      "apple": "2024-11-27 18:58:13 +0000",
+      "melon_slice": "2024-11-27 19:35:19 +0000"
     },
     "done": false
   },
@@ -2176,6 +2190,12 @@
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2024-11-27 19:24:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2024-11-27 19:28:24 +0000"
     },
     "done": true
   },
