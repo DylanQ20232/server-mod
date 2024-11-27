@@ -3513,3 +3513,70 @@ Caused by: java.lang.UnsupportedClassVersionError: uk/antiperson/stackmob/StackM
 [18:17:14] [User Authenticator #5/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player paulzhb is e4f7aaa7-bf5c-31ab-b0c2-205996c706f1
 [18:17:14] [Netty Epoll Server IO #5/INFO] [net.minecraftforge.fml.network.FMLHandshakeHandler/]: Client attempting to join with 97 mods : notenoughcrashes, betterdungeons, auudio, unionlib, k-turrets, supermartijn642configlib, iv_tcp_v3, transliterationlib, cure, philips_ruins1_16_5, jei, incontrol, satako, tac, journeymap, controlling, comforts, travelersbackpack, sereneseasons, yungsapi, mutantbeasts, bookshelf, badmobs, farsightedmobs, sophisticatedbackpacks, mapperbase, food_cans, mts, hordes, firstaid, forge, dummmmmmy, emojiful, iv_tpp, konkrete, dsurround, sndctrl, environs, mobeffects, selene, chipped, minecraft, farmersdelight, mtsofficialpack, horsecombatcontrols, dustrial_decor, voicechat, enchdesc, swingthroughgrass, mousetweaks, toolbelt, geode, entity_culling, shouldersurfing, bunker_down, supermartijn642corelib, zombie_drops_, notenoughanimations, curios, collective, roadstuff, mobsunscreen, appletreesrev, advancednetherite, polymorph, securitycraft, betterthirdperson, lostcities, survive, obfuscate, betterstrongholds, ambientenvironment, bear_trap, fancymenu, atlaslib, worldedit, starterkit, eatinganimation, coroutil, onlylooking, blood_and_gore, cfm, appleskin, lootr, engineersdecor, firstjoinmessage, cloth-config, nefdecomod, enhancedcelestials, trashcans, detailab, letmedespawn, fastleafdecay, bettermineshafts, fmextension_audio, exlinefurniture, effortlessbuilding
 [18:17:15] [Server thread/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: com.mojang.authlib.GameProfile@76e4d6b3[id=e4f7aaa7-bf5c-31ab-b0c2-205996c706f1,name=paulzhb,properties={},legacy=false] (/127.188.24.236:57461) lost connection: Disconnected
+[18:23:59] [User Authenticator #6/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player paulzhb is e4f7aaa7-bf5c-31ab-b0c2-205996c706f1
+[18:24:00] [Netty Epoll Server IO #7/INFO] [net.minecraftforge.fml.network.FMLHandshakeHandler/]: Client attempting to join with 98 mods : notenoughcrashes, betterdungeons, auudio, unionlib, k-turrets, supermartijn642configlib, iv_tcp_v3, transliterationlib, cure, philips_ruins1_16_5, jei, incontrol, satako, tac, journeymap, controlling, comforts, travelersbackpack, sereneseasons, yungsapi, mutantbeasts, bookshelf, badmobs, farsightedmobs, sophisticatedbackpacks, mapperbase, food_cans, mts, hordes, firstaid, forge, dummmmmmy, emojiful, iv_tpp, konkrete, dsurround, sndctrl, environs, mobeffects, selene, chipped, minecraft, farmersdelight, mtsofficialpack, horsecombatcontrols, dustrial_decor, voicechat, enchdesc, swingthroughgrass, mousetweaks, toolbelt, geode, entity_culling, shouldersurfing, bunker_down, supermartijn642corelib, zombie_drops_, notenoughanimations, curios, gravestone, collective, roadstuff, mobsunscreen, appletreesrev, advancednetherite, polymorph, securitycraft, betterthirdperson, lostcities, survive, obfuscate, betterstrongholds, ambientenvironment, bear_trap, fancymenu, atlaslib, worldedit, starterkit, eatinganimation, coroutil, onlylooking, blood_and_gore, cfm, appleskin, lootr, engineersdecor, firstjoinmessage, cloth-config, nefdecomod, enhancedcelestials, trashcans, detailab, letmedespawn, fastleafdecay, bettermineshafts, fmextension_audio, exlinefurniture, effortlessbuilding
+[18:24:03] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: paulzhb[/127.188.24.236:41431] logged in with entity id 1,992 at (58.5, 68, -54.5)
+[18:24:03] [Server thread/INFO] [tac/]: PENDING
+[18:24:04] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of paulzhb (18)
+[18:24:04] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to paulzhb
+[18:24:06] [Server thread/ERROR] [mcinterface1165.InterfaceLoader/]: MTSERROR: ConfigSystem failed to save modified config files.  Report to the mod author!
+[18:24:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: paulzhb has made the advancement [RTFM]
+[18:24:12] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player e4f7aaa7-bf5c-31ab-b0c2-205996c706f1
+[18:24:13] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player e4f7aaa7-bf5c-31ab-b0c2-205996c706f1
+[18:24:13] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player paulzhb (e4f7aaa7-bf5c-31ab-b0c2-205996c706f1) successfully connected to voice chat
+[18:28:49] [Server thread/WARN] [/]: java.io.IOException: Base resource not found: brd$1.class
+[18:28:49] [Server thread/WARN] [/]: 	at optifine.Patcher.applyPatch(Patcher.java:146)
+[18:28:49] [Server thread/WARN] [/]: 	at optifine.OptiFineTransformer.getOptiFineResourcePatched(OptiFineTransformer.java:396)
+[18:28:49] [Server thread/WARN] [/]: 	at optifine.OptiFineTransformer.getOptiFineResourceStreamPatched(OptiFineTransformer.java:368)
+[18:28:49] [Server thread/WARN] [/]: 	at optifine.OptiFineTransformer.getOptiFineResourceStream(OptiFineTransformer.java:292)
+[18:28:49] [Server thread/WARN] [/]: 	at optifine.OptiFineTransformer.getOptiFineResource(OptiFineTransformer.java:261)
+[18:28:49] [Server thread/WARN] [/]: 	at optifine.OptiFineTransformer.transform(OptiFineTransformer.java:172)
+[18:28:49] [Server thread/WARN] [/]: 	at optifine.OptiFineTransformer.transform(OptiFineTransformer.java:1)
+[18:28:49] [Server thread/WARN] [/]: 	at cpw.mods.modlauncher.TransformerHolder.transform(TransformerHolder.java:41)
+[18:28:49] [Server thread/WARN] [/]: 	at cpw.mods.modlauncher.ClassTransformer.performVote(ClassTransformer.java:179)
+[18:28:49] [Server thread/WARN] [/]: 	at cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:98)
+[18:28:49] [Server thread/WARN] [/]: 	at cpw.mods.modlauncher.TransformingClassLoader$DelegatedClassLoader.findClass(TransformingClassLoader.java:290)
+[18:28:49] [Server thread/WARN] [/]: 	at cpw.mods.modlauncher.TransformingClassLoader.loadClass(TransformingClassLoader.java:160)
+[18:28:49] [Server thread/WARN] [/]: 	at cpw.mods.modlauncher.TransformingClassLoader.loadClass(TransformingClassLoader.java:109)
+[18:28:49] [Server thread/WARN] [/]: 	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:527)
+[18:28:49] [Server thread/WARN] [/]: 	at net.minecraft.util.math.ChunkPos.func_222239_a(ChunkPos.java:120)
+[18:28:49] [Server thread/WARN] [/]: 	at net.minecraft.util.math.ChunkPos.func_222243_a(ChunkPos.java:112)
+[18:28:49] [Server thread/WARN] [/]: 	at net.minecraft.village.PointOfInterestManager.func_226353_b_(SourceFile:71)
+[18:28:49] [Server thread/WARN] [/]: 	at net.minecraft.village.PointOfInterestManager.func_219146_b(SourceFile:81)
+[18:28:49] [Server thread/WARN] [/]: 	at net.minecraft.entity.passive.BeeEntity$UpdateBeehiveGoal.func_226489_j_(BeeEntity.java:1129)
+[18:28:49] [Server thread/WARN] [/]: 	at net.minecraft.entity.passive.BeeEntity$UpdateBeehiveGoal.func_75249_e(BeeEntity.java:1112)
+[18:28:49] [Server thread/WARN] [/]: 	at net.minecraft.entity.ai.goal.PrioritizedGoal.func_75249_e(SourceFile:41)
+[18:28:49] [Server thread/WARN] [/]: 	at net.minecraft.entity.ai.goal.GoalSelector.func_220877_a(GoalSelector.java:80)
+[18:28:49] [Server thread/WARN] [/]: 	at java.base/java.util.stream.ForEachOps$ForEachOp$OfRef.accept(ForEachOps.java:183)
+[18:28:49] [Server thread/WARN] [/]: 	at java.base/java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:177)
+[18:28:49] [Server thread/WARN] [/]: 	at java.base/java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:177)
+[18:28:49] [Server thread/WARN] [/]: 	at java.base/java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:177)
+[18:28:49] [Server thread/WARN] [/]: 	at java.base/java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:177)
+[18:28:49] [Server thread/WARN] [/]: 	at java.base/java.util.Iterator.forEachRemaining(Iterator.java:133)
+[18:28:49] [Server thread/WARN] [/]: 	at java.base/java.util.Spliterators$IteratorSpliterator.forEachRemaining(Spliterators.java:1801)
+[18:28:49] [Server thread/WARN] [/]: 	at java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:484)
+[18:28:49] [Server thread/WARN] [/]: 	at java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:474)
+[18:28:49] [Server thread/WARN] [/]: 	at java.base/java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:150)
+[18:28:49] [Server thread/WARN] [/]: 	at java.base/java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:173)
+[18:28:49] [Server thread/WARN] [/]: 	at java.base/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234)
+[18:28:49] [Server thread/WARN] [/]: 	at java.base/java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:497)
+[18:28:49] [Server thread/WARN] [/]: 	at net.minecraft.entity.ai.goal.GoalSelector.func_75774_a(GoalSelector.java:74)
+[18:28:49] [Server thread/WARN] [/]: 	at net.minecraft.entity.MobEntity.func_70626_be(MobEntity.java:759)
+[18:28:49] [Server thread/WARN] [/]: 	at net.minecraft.entity.LivingEntity.func_70636_d(LivingEntity.java:2875)
+[18:28:49] [Server thread/WARN] [/]: 	at net.minecraft.entity.MobEntity.func_70636_d(MobEntity.java:550)
+[18:28:49] [Server thread/WARN] [/]: 	at net.minecraft.entity.AgeableEntity.func_70636_d(AgeableEntity.java:142)
+[18:28:49] [Server thread/WARN] [/]: 	at net.minecraft.entity.passive.AnimalEntity.func_70636_d(AnimalEntity.java:54)
+[18:28:49] [Server thread/WARN] [/]: 	at net.minecraft.entity.passive.BeeEntity.func_70636_d(BeeEntity.java:403)
+[18:28:49] [Server thread/WARN] [/]: 	at net.minecraft.entity.LivingEntity.func_70071_h_(LivingEntity.java:2623)
+[18:28:49] [Server thread/WARN] [/]: 	at net.minecraft.entity.MobEntity.func_70071_h_(MobEntity.java:346)
+[18:28:49] [Server thread/WARN] [/]: 	at net.minecraft.entity.passive.BeeEntity.func_70071_h_(BeeEntity.java:220)
+[18:28:49] [Server thread/WARN] [/]: 	at net.minecraft.world.server.ServerWorld.func_217479_a(ServerWorld.java:810)
+[18:28:49] [Server thread/WARN] [/]: 	at net.minecraft.world.World.func_217390_a(World.java:706)
+[18:28:49] [Server thread/WARN] [/]: 	at net.minecraft.world.server.ServerWorld.func_72835_b(ServerWorld.java:554)
+[18:28:49] [Server thread/WARN] [/]: 	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:1100)
+[18:28:49] [Server thread/WARN] [/]: 	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:345)
+[18:28:49] [Server thread/WARN] [/]: 	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:1033)
+[18:28:49] [Server thread/WARN] [/]: 	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:847)
+[18:28:49] [Server thread/WARN] [/]: 	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:267)
+[18:28:49] [Server thread/WARN] [/]: 	at java.base/java.lang.Thread.run(Thread.java:829)
+[18:29:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: paulzhb has made the advancement [Immersive Vehicles (MTS)]
