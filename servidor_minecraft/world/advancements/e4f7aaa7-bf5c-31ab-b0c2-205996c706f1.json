@@ -23,18 +23,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/purple_wool": {
-    "criteria": {
-      "has_white_wool": "2024-11-27 18:33:24 +0000"
-    },
-    "done": true
-  },
-  "roadstuff:recipes/roadstuff_group/cyan_traffic_barrel": {
-    "criteria": {
-      "has_bitumen": "2024-11-27 18:31:45 +0000"
-    },
-    "done": true
-  },
   "roadstuff:recipes/roadstuff_group/white_bollard": {
     "criteria": {
       "has_stick": "2024-11-27 18:29:47 +0000"
@@ -42,12 +30,6 @@
     "done": true
   },
   "minecraft:recipes/redstone/lever": {
-    "criteria": {
-      "has_cobblestone": "2024-11-27 18:43:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2024-11-27 18:43:12 +0000"
     },
@@ -65,45 +47,21 @@
     },
     "done": true
   },
-  "securitycraft:recipes/securitycraft/panic_button": {
-    "criteria": {
-      "has_redstone": "2024-11-27 18:49:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/wheat": {
-    "criteria": {
-      "has_hay_block": "2024-11-27 18:37:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/white_bed": {
-    "criteria": {
-      "has_white_wool": "2024-11-27 18:33:24 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/securitycraft/sentry": {
     "criteria": {
       "has_iron": "2024-11-27 18:34:35 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2024-11-27 19:11:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_pickaxe": {
     "criteria": {
       "has_iron_ingot": "2024-11-27 18:34:35 +0000"
-    },
-    "done": true
-  },
-  "roadstuff:recipes/roadstuff_group/white_traffic_bollard": {
-    "criteria": {
-      "has_bitumen": "2024-11-27 18:31:45 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/cfm/stone_desk_cabinet": {
-    "criteria": {
-      "has_planks": "2024-11-27 18:43:12 +0000"
     },
     "done": true
   },
@@ -119,9 +77,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/campfire": {
+  "minecraft:recipes/building_blocks/polished_granite_stairs": {
     "criteria": {
-      "has_stick": "2024-11-27 18:29:47 +0000"
+      "has_polished_granite": "2024-11-27 19:14:26 +0000"
     },
     "done": true
   },
@@ -131,21 +89,15 @@
     },
     "done": true
   },
-  "cfm:recipes/cfm/stone_coffee_table": {
-    "criteria": {
-      "has_planks": "2024-11-27 18:43:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/iron_nugget": {
-    "criteria": {
-      "has_iron_ingot": "2024-11-27 18:34:35 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/chest": {
     "criteria": {
       "has_lots_of_items": "2024-11-27 18:30:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_sword": {
+    "criteria": {
+      "has_gold_ingot": "2024-11-27 19:12:53 +0000"
     },
     "done": true
   },
@@ -161,57 +113,15 @@
     },
     "done": true
   },
-  "roadstuff:recipes/roadstuff_group/purple_traffic_cone": {
-    "criteria": {
-      "has_bitumen": "2024-11-27 18:31:45 +0000"
-    },
-    "done": true
-  },
-  "roadstuff:recipes/roadstuff_group/lime_traffic_cone": {
-    "criteria": {
-      "has_bitumen": "2024-11-27 18:31:45 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/wooden_shovel": {
     "criteria": {
       "has_stick": "2024-11-27 18:29:47 +0000"
     },
     "done": true
   },
-  "securitycraft:recipes/securitycraft/track_mine": {
-    "criteria": {
-      "has_iron": "2024-11-27 18:34:35 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/cfm/stripped_oak_chair": {
-    "criteria": {
-      "has_planks": "2024-11-27 18:29:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cyan_wool": {
-    "criteria": {
-      "has_white_wool": "2024-11-27 18:33:24 +0000"
-    },
-    "done": true
-  },
   "mts:rtfm": {
     "criteria": {
       "has_manual": "2024-11-27 18:24:06 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/cfm/oak_crate": {
-    "criteria": {
-      "has_log": "2024-11-27 18:29:34 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/cfm/trampoline": {
-    "criteria": {
-      "has_iron": "2024-11-27 18:34:35 +0000"
     },
     "done": true
   },
@@ -233,18 +143,6 @@
     },
     "done": true
   },
-  "roadstuff:recipes/roadstuff_group/pink_traffic_bollard": {
-    "criteria": {
-      "has_bitumen": "2024-11-27 18:31:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/spruce_boat": {
-    "criteria": {
-      "in_water": "2024-11-27 18:28:57 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/cfm/brown_grill": {
     "criteria": {
       "has_iron": "2024-11-27 18:34:35 +0000"
@@ -252,24 +150,6 @@
     "done": true
   },
   "cfm:recipes/cfm/green_grill": {
-    "criteria": {
-      "has_iron": "2024-11-27 18:34:35 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/securitycraft/blacklist_module": {
-    "criteria": {
-      "has_iron": "2024-11-27 18:34:35 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/cfm/stripped_oak_table": {
-    "criteria": {
-      "has_planks": "2024-11-27 18:29:34 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/securitycraft/speed_module": {
     "criteria": {
       "has_iron": "2024-11-27 18:34:35 +0000"
     },
@@ -293,30 +173,6 @@
     },
     "done": true
   },
-  "securitycraft:recipes/securitycraft/harming_module": {
-    "criteria": {
-      "has_iron": "2024-11-27 18:34:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/gray_wool": {
-    "criteria": {
-      "has_white_wool": "2024-11-27 18:33:24 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/cfm/oak_kitchen_counter": {
-    "criteria": {
-      "has_log": "2024-11-27 18:29:34 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/cfm/stripped_oak_kitchen_drawer": {
-    "criteria": {
-      "has_log": "2024-11-27 18:29:34 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2024-11-27 18:34:35 +0000"
@@ -329,39 +185,9 @@
     },
     "done": true
   },
-  "securitycraft:recipes/securitycraft/keypad_frame": {
+  "minecraft:recipes/building_blocks/nether_wart_block": {
     "criteria": {
-      "has_redstone": "2024-11-27 18:49:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/balanced_diet": {
-    "criteria": {
-      "apple": "2024-11-27 18:41:07 +0000"
-    },
-    "done": false
-  },
-  "roadstuff:recipes/roadstuff_group/blue_traffic_barrel": {
-    "criteria": {
-      "has_bitumen": "2024-11-27 18:31:45 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/cfm/light_gray_picket_gate": {
-    "criteria": {
-      "has_concrete": "2024-11-27 18:48:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/wooden_hoe": {
-    "criteria": {
-      "has_stick": "2024-11-27 18:29:47 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/cfm/oak_blinds": {
-    "criteria": {
-      "has_log": "2024-11-27 18:29:34 +0000"
+      "has_nether_wart": "2024-11-27 19:13:11 +0000"
     },
     "done": true
   },
@@ -371,27 +197,9 @@
     },
     "done": true
   },
-  "roadstuff:recipes/roadstuff_group/magenta_traffic_barrel": {
-    "criteria": {
-      "has_bitumen": "2024-11-27 18:31:45 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/cfm/stone_desk": {
-    "criteria": {
-      "has_planks": "2024-11-27 18:43:12 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
       "has_cobblestone": "2024-11-27 18:43:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/bucket": {
-    "criteria": {
-      "has_iron_ingot": "2024-11-27 18:34:35 +0000"
     },
     "done": true
   },
@@ -410,18 +218,6 @@
   "cfm:recipes/cfm/oak_bedside_cabinet": {
     "criteria": {
       "has_log": "2024-11-27 18:29:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cobblestone_stairs": {
-    "criteria": {
-      "has_cobblestone": "2024-11-27 18:43:12 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/cfm/oak_kitchen_sink_dark": {
-    "criteria": {
-      "has_bottom": "2024-11-27 18:29:45 +0000"
     },
     "done": true
   },
@@ -455,27 +251,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/note_block": {
-    "criteria": {
-      "has_redstone": "2024-11-27 18:49:35 +0000"
-    },
-    "done": true
-  },
-  "advancednetherite:recipes/advancednetherite.tab/netherite_emerald_ingot": {
-    "criteria": {
-      "has_OptionalNamedTag[forge:gems/emerald]": "2024-11-27 18:39:07 +0000"
-    },
-    "done": true
-  },
   "mutantbeasts:root": {
     "criteria": {
       "killed_something": "2024-11-27 18:33:07 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/securitycraft/redstone_module": {
-    "criteria": {
-      "has_iron": "2024-11-27 18:34:35 +0000"
     },
     "done": true
   },
@@ -485,19 +263,7 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/white_banner": {
-    "criteria": {
-      "has_white_wool": "2024-11-27 18:33:24 +0000"
-    },
-    "done": true
-  },
   "survive:recipes/main/wool_hat": {
-    "criteria": {
-      "has_wool": "2024-11-27 18:33:24 +0000"
-    },
-    "done": true
-  },
-  "survive:recipes/main/wool_pants": {
     "criteria": {
       "has_wool": "2024-11-27 18:33:24 +0000"
     },
@@ -509,33 +275,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/iron_helmet": {
-    "criteria": {
-      "has_iron_ingot": "2024-11-27 18:34:35 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/cfm/yellow_grill": {
-    "criteria": {
-      "has_iron": "2024-11-27 18:34:35 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/food/cooked_mutton_from_grill_cooking": {
     "criteria": {
       "has_mutton": "2024-11-27 18:33:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/bow": {
-    "criteria": {
-      "has_string": "2024-11-27 18:45:07 +0000"
-    },
-    "done": true
-  },
-  "roadstuff:recipes/roadstuff_group/black_traffic_cone": {
-    "criteria": {
-      "has_bitumen": "2024-11-27 18:31:45 +0000"
     },
     "done": true
   },
@@ -548,24 +290,6 @@
   "securitycraft:recipes/securitycraft/security_camera": {
     "criteria": {
       "has_iron": "2024-11-27 18:34:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/oak_fence_gate": {
-    "criteria": {
-      "has_planks": "2024-11-27 18:29:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/tnt": {
-    "criteria": {
-      "has_gunpowder": "2024-11-27 19:06:42 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/cfm/white_sofa": {
-    "criteria": {
-      "has_wool": "2024-11-27 18:33:24 +0000"
     },
     "done": true
   },
@@ -611,39 +335,21 @@
     },
     "done": true
   },
-  "roadstuff:recipes/roadstuff_group/green_traffic_cone": {
+  "minecraft:recipes/building_blocks/gold_block": {
     "criteria": {
-      "has_bitumen": "2024-11-27 18:31:45 +0000"
+      "has_gold_ingot": "2024-11-27 19:12:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2024-11-27 19:11:47 +0000"
     },
     "done": true
   },
   "securitycraft:recipes/securitycraft/portable_radar": {
     "criteria": {
       "has_redstone": "2024-11-27 18:49:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/mine_stone": {
-    "criteria": {
-      "get_stone": "2024-11-27 18:43:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/target": {
-    "criteria": {
-      "has_hay_block": "2024-11-27 18:37:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/furnace": {
-    "criteria": {
-      "has_cobblestone": "2024-11-27 18:43:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/minecart": {
-    "criteria": {
-      "has_iron_ingot": "2024-11-27 18:34:35 +0000"
     },
     "done": true
   },
@@ -659,9 +365,9 @@
     },
     "done": true
   },
-  "advancednetherite:recipes/advancednetherite.tab/netherite_iron_ingot": {
+  "minecraft:recipes/combat/diamond_leggings": {
     "criteria": {
-      "has_OptionalNamedTag[forge:ingots/iron]": "2024-11-27 18:34:35 +0000"
+      "has_diamond": "2024-11-27 19:12:34 +0000"
     },
     "done": true
   },
@@ -671,39 +377,9 @@
     },
     "done": true
   },
-  "roadstuff:recipes/roadstuff_group/light_gray_traffic_barrel": {
-    "criteria": {
-      "has_bitumen": "2024-11-27 18:31:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/charcoal": {
-    "criteria": {
-      "has_log": "2024-11-27 18:29:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/orange_wool": {
-    "criteria": {
-      "has_white_wool": "2024-11-27 18:33:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/iron_hoe": {
-    "criteria": {
-      "has_iron_ingot": "2024-11-27 18:34:35 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/cfm/light_gray_picket_fence": {
     "criteria": {
       "has_concrete": "2024-11-27 18:48:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/wooden_pickaxe": {
-    "criteria": {
-      "has_stick": "2024-11-27 18:29:47 +0000"
     },
     "done": true
   },
@@ -719,33 +395,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/redstone_torch": {
-    "criteria": {
-      "has_redstone": "2024-11-27 18:49:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/root": {
-    "criteria": {
-      "consumed_item": "2024-11-27 18:41:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/birch_boat": {
-    "criteria": {
-      "in_water": "2024-11-27 18:28:57 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/oak_stairs": {
     "criteria": {
       "has_planks": "2024-11-27 18:29:45 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/securitycraft/sonic_security_system": {
-    "criteria": {
-      "has_stick": "2024-11-27 18:29:47 +0000"
     },
     "done": true
   },
@@ -758,12 +410,6 @@
   "cfm:recipes/cfm/stripped_oak_coffee_table": {
     "criteria": {
       "has_planks": "2024-11-27 18:29:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/iron_shovel": {
-    "criteria": {
-      "has_iron_ingot": "2024-11-27 18:34:35 +0000"
     },
     "done": true
   },
@@ -803,18 +449,6 @@
     },
     "done": true
   },
-  "roadstuff:recipes/roadstuff_group/yellow_traffic_cone": {
-    "criteria": {
-      "has_bitumen": "2024-11-27 18:31:45 +0000"
-    },
-    "done": true
-  },
-  "roadstuff:recipes/roadstuff_group/red_traffic_cone": {
-    "criteria": {
-      "has_bitumen": "2024-11-27 18:31:45 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/securitycraft/storage_module": {
     "criteria": {
       "has_iron": "2024-11-27 18:34:35 +0000"
@@ -833,33 +467,15 @@
     },
     "done": true
   },
-  "farmersdelight:main/root": {
-    "criteria": {
-      "seeds": "2024-11-27 18:24:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/clock": {
-    "criteria": {
-      "has_redstone": "2024-11-27 18:49:35 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/white_wool_from_string": {
     "criteria": {
       "has_string": "2024-11-27 18:45:07 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/tools/stone_hoe": {
+  "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
-      "has_cobblestone": "2024-11-27 18:43:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/baked_potato_from_smoking": {
-    "criteria": {
-      "has_potato": "2024-11-27 18:38:16 +0000"
+      "has_diamond": "2024-11-27 19:12:34 +0000"
     },
     "done": true
   },
@@ -869,21 +485,15 @@
     },
     "done": true
   },
-  "roadstuff:recipes/roadstuff_group/yellow_traffic_barrel": {
+  "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "has_bitumen": "2024-11-27 18:31:45 +0000"
+      "minecraft:zombie": "2024-11-27 19:11:56 +0000"
     },
-    "done": true
+    "done": false
   },
   "roadstuff:recipes/roadstuff_group/yellow_bollard": {
     "criteria": {
       "has_stick": "2024-11-27 18:29:47 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/cfm/oak_upgraded_gate": {
-    "criteria": {
-      "has_log": "2024-11-27 18:29:34 +0000"
     },
     "done": true
   },
@@ -899,45 +509,9 @@
     },
     "done": true
   },
-  "roadstuff:recipes/roadstuff_group/purple_traffic_bollard": {
-    "criteria": {
-      "has_bitumen": "2024-11-27 18:31:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/baked_potato": {
-    "criteria": {
-      "has_potato": "2024-11-27 18:38:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/white_carpet": {
-    "criteria": {
-      "has_white_wool": "2024-11-27 18:33:24 +0000"
-    },
-    "done": true
-  },
-  "roadstuff:recipes/roadstuff_group/paint_brush": {
-    "criteria": {
-      "has_wool": "2024-11-27 18:33:24 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/food/cooked_mutton_from_smoking": {
     "criteria": {
       "has_mutton": "2024-11-27 18:33:24 +0000"
-    },
-    "done": true
-  },
-  "mts:root": {
-    "criteria": {
-      "crafting_table": "2024-11-27 18:29:47 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/cfm/white_grill": {
-    "criteria": {
-      "has_iron": "2024-11-27 18:34:35 +0000"
     },
     "done": true
   },
@@ -947,15 +521,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/chain": {
+  "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
     "criteria": {
-      "has_iron_ingot": "2024-11-27 18:34:35 +0000"
+      "has_granite": "2024-11-27 19:14:28 +0000"
     },
     "done": true
   },
-  "roadstuff:recipes/roadstuff_group/magenta_traffic_cone": {
+  "minecraft:recipes/decorations/chain": {
     "criteria": {
-      "has_bitumen": "2024-11-27 18:31:45 +0000"
+      "has_iron_ingot": "2024-11-27 18:34:35 +0000"
     },
     "done": true
   },
@@ -968,12 +542,6 @@
   "minecraft:recipes/decorations/oak_fence": {
     "criteria": {
       "has_planks": "2024-11-27 18:29:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/oak_boat": {
-    "criteria": {
-      "in_water": "2024-11-27 18:28:57 +0000"
     },
     "done": true
   },
@@ -1013,9 +581,9 @@
     },
     "done": true
   },
-  "cfm:recipes/cfm/oak_park_bench": {
+  "cfm:recipes/cfm/granite_desk_cabinet": {
     "criteria": {
-      "has_log": "2024-11-27 18:29:34 +0000"
+      "has_log": "2024-11-27 19:14:26 +0000"
     },
     "done": true
   },
@@ -1031,12 +599,6 @@
     },
     "done": true
   },
-  "securitycraft:recipes/securitycraft/claymore": {
-    "criteria": {
-      "has_redstone": "2024-11-27 18:49:35 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
     "criteria": {
       "has_porkchop": "2024-11-27 18:33:08 +0000"
@@ -1049,27 +611,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/wooden_axe": {
+  "minecraft:recipes/building_blocks/granite_stairs": {
     "criteria": {
-      "has_stick": "2024-11-27 18:29:47 +0000"
+      "has_granite": "2024-11-27 19:14:28 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/lime_wool": {
+  "cfm:recipes/cfm/granite_cabinet": {
     "criteria": {
-      "has_white_wool": "2024-11-27 18:33:24 +0000"
+      "has_log": "2024-11-27 19:14:26 +0000"
     },
     "done": true
   },
-  "securitycraft:recipes/securitycraft/keycard_lv2": {
+  "minecraft:recipes/brewing/blaze_powder": {
     "criteria": {
-      "has_iron": "2024-11-27 18:34:35 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/securitycraft/keycard_lv1": {
-    "criteria": {
-      "has_iron": "2024-11-27 18:34:35 +0000"
+      "has_blaze_rod": "2024-11-27 19:13:11 +0000"
     },
     "done": true
   },
@@ -1079,33 +635,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/loom": {
+  "minecraft:recipes/combat/golden_chestplate": {
     "criteria": {
-      "has_string": "2024-11-27 18:45:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/green_wool": {
-    "criteria": {
-      "has_white_wool": "2024-11-27 18:33:24 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/securitycraft/bouncing_betty": {
-    "criteria": {
-      "has_iron": "2024-11-27 18:34:35 +0000"
-    },
-    "done": true
-  },
-  "roadstuff:recipes/roadstuff_group/black_traffic_bollard": {
-    "criteria": {
-      "has_bitumen": "2024-11-27 18:31:45 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/cfm/light_gray_grill": {
-    "criteria": {
-      "has_iron": "2024-11-27 18:34:35 +0000"
+      "has_gold_ingot": "2024-11-27 19:12:53 +0000"
     },
     "done": true
   },
@@ -1115,27 +647,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/brown_wool": {
-    "criteria": {
-      "has_white_wool": "2024-11-27 18:33:24 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/securitycraft/universal_key_changer": {
     "criteria": {
       "has_redstone": "2024-11-27 18:49:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/scaffolding": {
-    "criteria": {
-      "has_bamboo": "2024-11-27 18:33:28 +0000"
-    },
-    "done": true
-  },
-  "trashcans:recipes/decorations/energy_trash_can": {
-    "criteria": {
-      "recipe_condition": "2024-11-27 18:49:35 +0000"
     },
     "done": true
   },
@@ -1154,12 +668,6 @@
   "cfm:recipes/cfm/fridge_dark": {
     "criteria": {
       "has_iron": "2024-11-27 18:34:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/painting": {
-    "criteria": {
-      "has_wool": "2024-11-27 18:33:24 +0000"
     },
     "done": true
   },
@@ -1187,6 +695,1250 @@
     },
     "done": true
   },
+  "roadstuff:recipes/roadstuff_group/paint_bucket": {
+    "criteria": {
+      "has_iron_ingot": "2024-11-27 18:34:35 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/username_logger": {
+    "criteria": {
+      "has_redstone": "2024-11-27 18:49:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_wool": {
+    "criteria": {
+      "has_white_wool": "2024-11-27 18:33:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/wooden_sword": {
+    "criteria": {
+      "has_stick": "2024-11-27 18:29:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2024-11-27 18:29:34 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/granite_coffee_table": {
+    "criteria": {
+      "has_log": "2024-11-27 19:14:26 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/cage_trap": {
+    "criteria": {
+      "has_redstone": "2024-11-27 18:49:35 +0000"
+    },
+    "done": true
+  },
+  "roadstuff:recipes/roadstuff_group/purple_traffic_barrel": {
+    "criteria": {
+      "has_bitumen": "2024-11-27 18:31:45 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_oak_kitchen_counter": {
+    "criteria": {
+      "has_log": "2024-11-27 18:29:34 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/smart_module": {
+    "criteria": {
+      "has_iron": "2024-11-27 18:34:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_axe": {
+    "criteria": {
+      "has_gold_ingot": "2024-11-27 19:12:53 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/block_change_detector": {
+    "criteria": {
+      "has_iron": "2024-11-27 18:34:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_axe": {
+    "criteria": {
+      "has_iron_ingot": "2024-11-27 18:34:35 +0000"
+    },
+    "done": true
+  },
+  "mapperbase:recipes/mapperbase_group/ferrite": {
+    "criteria": {
+      "has_iron_ingot": "2024-11-27 18:34:35 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/blasting_upgrade_from_smelting_upgrade": {
+    "criteria": {
+      "has_smelting_upgrade": "2024-11-27 18:24:03 +0000"
+    },
+    "done": true
+  },
+  "roadstuff:recipes/roadstuff_group/pink_traffic_barrel": {
+    "criteria": {
+      "has_bitumen": "2024-11-27 18:31:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2024-11-27 18:45:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_boots": {
+    "criteria": {
+      "has_iron_ingot": "2024-11-27 18:34:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2024-11-27 18:34:56 +0000"
+    },
+    "done": true
+  },
+  "roadstuff:recipes/roadstuff_group/green_traffic_bollard": {
+    "criteria": {
+      "has_bitumen": "2024-11-27 18:31:45 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_white": {
+    "criteria": {
+      "has_white_wool": "2024-11-27 18:33:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2024-11-27 18:37:33 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/iron_knife": {
+    "criteria": {
+      "has_iron_ingot": "2024-11-27 18:34:35 +0000"
+    },
+    "done": true
+  },
+  "roadstuff:recipes/roadstuff_group/brown_traffic_barrel": {
+    "criteria": {
+      "has_bitumen": "2024-11-27 18:31:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_chestplate": {
+    "criteria": {
+      "has_iron_ingot": "2024-11-27 18:34:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/crossbow": {
+    "criteria": {
+      "has_stick": "2024-11-27 18:29:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_wool": {
+    "criteria": {
+      "has_white_wool": "2024-11-27 18:33:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_sign": {
+    "criteria": {
+      "has_oak_planks": "2024-11-27 18:29:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2024-11-27 18:33:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-11-27 18:29:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-11-27 19:14:28 +0000"
+    },
+    "done": true
+  },
+  "roadstuff:recipes/roadstuff_group/white_traffic_cone": {
+    "criteria": {
+      "has_bitumen": "2024-11-27 18:31:45 +0000"
+    },
+    "done": true
+  },
+  "comforts:rope_and_nail": {
+    "criteria": {
+      "has_iron": "2024-11-27 18:34:35 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/portable_tune_player": {
+    "criteria": {
+      "has_redstone": "2024-11-27 18:49:35 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_oak_desk": {
+    "criteria": {
+      "has_planks": "2024-11-27 18:29:34 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:root": {
+    "criteria": {
+      "always": "2024-11-27 18:24:03 +0000"
+    },
+    "done": true
+  },
+  "mapperbase:recipes/mapperbase_group/flatter_hammer": {
+    "criteria": {
+      "has_stick": "2024-11-27 18:29:47 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_diorite": {
+    "criteria": {
+      "has_cobblestone": "2024-11-27 18:43:12 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/trophy_system": {
+    "criteria": {
+      "has_iron": "2024-11-27 18:34:35 +0000"
+    },
+    "done": true
+  },
+  "lootr:root": {
+    "criteria": {
+      "always_true": "2024-11-27 18:24:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:zombie": "2024-11-27 19:11:56 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/camera_monitor": {
+    "criteria": {
+      "has_iron": "2024-11-27 18:34:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_pickaxe": {
+    "criteria": {
+      "has_gold_ingot": "2024-11-27 19:12:53 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/limited_use_keycard": {
+    "criteria": {
+      "has_iron": "2024-11-27 18:34:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_stairs_from_polished_granite_stonecutting": {
+    "criteria": {
+      "has_polished_granite": "2024-11-27 19:14:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2024-11-27 19:12:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone": {
+    "criteria": {
+      "has_cobblestone": "2024-11-27 18:43:12 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/granite_table": {
+    "criteria": {
+      "has_log": "2024-11-27 19:14:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:jungle_edge": "2024-11-27 18:33:45 +0000",
+      "minecraft:forest": "2024-11-27 18:24:03 +0000",
+      "minecraft:taiga": "2024-11-27 18:47:33 +0000",
+      "minecraft:taiga_hills": "2024-11-27 18:51:22 +0000",
+      "minecraft:jungle": "2024-11-27 18:27:41 +0000",
+      "minecraft:bamboo_jungle": "2024-11-27 18:31:12 +0000",
+      "minecraft:river": "2024-11-27 18:27:01 +0000",
+      "minecraft:wooded_hills": "2024-11-27 18:59:41 +0000",
+      "minecraft:plains": "2024-11-27 18:33:48 +0000"
+    },
+    "done": false
+  },
+  "roadstuff:recipes/roadstuff_group/gray_traffic_bollard": {
+    "criteria": {
+      "has_bitumen": "2024-11-27 18:31:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2024-11-27 18:37:33 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/red_grill": {
+    "criteria": {
+      "has_iron": "2024-11-27 18:34:35 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/whitelist_module": {
+    "criteria": {
+      "has_iron": "2024-11-27 18:34:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/stone_sword": {
+    "criteria": {
+      "has_cobblestone": "2024-11-27 18:43:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall": {
+    "criteria": {
+      "has_cobblestone": "2024-11-27 18:43:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/barrel": {
+    "criteria": {
+      "has_planks": "2024-11-27 18:29:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2024-11-27 19:11:47 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stone_cabinet": {
+    "criteria": {
+      "has_planks": "2024-11-27 18:43:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_pickaxe": {
+    "criteria": {
+      "has_cobblestone": "2024-11-27 18:43:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/smithing_table": {
+    "criteria": {
+      "has_iron_ingot": "2024-11-27 18:34:35 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/oak_desk_cabinet": {
+    "criteria": {
+      "has_log": "2024-11-27 18:29:34 +0000"
+    },
+    "done": true
+  },
+  "roadstuff:recipes/roadstuff_group/red_traffic_barrel": {
+    "criteria": {
+      "has_bitumen": "2024-11-27 18:31:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2024-11-27 18:43:12 +0000"
+    },
+    "done": true
+  },
+  "roadstuff:recipes/roadstuff_group/red_small_bollard": {
+    "criteria": {
+      "has_stick": "2024-11-27 18:29:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_diamond": "2024-11-27 19:12:34 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/black_grill": {
+    "criteria": {
+      "has_iron": "2024-11-27 18:34:35 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/auto_blasting_upgrade": {
+    "criteria": {
+      "has_blasting_upgrade": "2024-11-27 18:24:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lantern": {
+    "criteria": {
+      "has_iron_ingot": "2024-11-27 18:34:35 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/light_blue_grill": {
+    "criteria": {
+      "has_iron": "2024-11-27 18:34:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2024-11-27 18:33:28 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/post_box": {
+    "criteria": {
+      "has_iron": "2024-11-27 18:34:35 +0000"
+    },
+    "done": true
+  },
+  "roadstuff:recipes/roadstuff_group/light_blue_traffic_barrel": {
+    "criteria": {
+      "has_bitumen": "2024-11-27 18:31:45 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stone_table": {
+    "criteria": {
+      "has_planks": "2024-11-27 18:43:12 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/advancednetherite.tab/netherite_diamond_ingot": {
+    "criteria": {
+      "has_OptionalNamedTag[forge:gems/diamond]": "2024-11-27 19:12:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_wool": {
+    "criteria": {
+      "has_white_wool": "2024-11-27 18:33:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_wool": {
+    "criteria": {
+      "has_white_wool": "2024-11-27 18:33:24 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/alarm": {
+    "criteria": {
+      "has_redstone": "2024-11-27 18:49:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_axe": {
+    "criteria": {
+      "has_cobblestone": "2024-11-27 18:43:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton": {
+    "criteria": {
+      "has_mutton": "2024-11-27 18:33:24 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/disguise_module": {
+    "criteria": {
+      "has_iron": "2024-11-27 18:34:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_wool": {
+    "criteria": {
+      "has_white_wool": "2024-11-27 18:33:24 +0000"
+    },
+    "done": true
+  },
+  "roadstuff:recipes/roadstuff_group/cyan_traffic_barrel": {
+    "criteria": {
+      "has_bitumen": "2024-11-27 18:31:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2024-11-27 18:43:12 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/panic_button": {
+    "criteria": {
+      "has_redstone": "2024-11-27 18:49:35 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/granite_desk": {
+    "criteria": {
+      "has_log": "2024-11-27 19:14:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2024-11-27 18:37:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_bed": {
+    "criteria": {
+      "has_white_wool": "2024-11-27 18:33:24 +0000"
+    },
+    "done": true
+  },
+  "roadstuff:recipes/roadstuff_group/white_traffic_bollard": {
+    "criteria": {
+      "has_bitumen": "2024-11-27 18:31:45 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stone_desk_cabinet": {
+    "criteria": {
+      "has_planks": "2024-11-27 18:43:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/campfire": {
+    "criteria": {
+      "has_stick": "2024-11-27 18:29:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_hoe": {
+    "criteria": {
+      "has_gold_ingot": "2024-11-27 19:12:53 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stone_coffee_table": {
+    "criteria": {
+      "has_planks": "2024-11-27 18:43:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget": {
+    "criteria": {
+      "has_iron_ingot": "2024-11-27 18:34:35 +0000"
+    },
+    "done": true
+  },
+  "roadstuff:recipes/roadstuff_group/purple_traffic_cone": {
+    "criteria": {
+      "has_bitumen": "2024-11-27 18:31:45 +0000"
+    },
+    "done": true
+  },
+  "roadstuff:recipes/roadstuff_group/lime_traffic_cone": {
+    "criteria": {
+      "has_bitumen": "2024-11-27 18:31:45 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/track_mine": {
+    "criteria": {
+      "has_iron": "2024-11-27 18:34:35 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_oak_chair": {
+    "criteria": {
+      "has_planks": "2024-11-27 18:29:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2024-11-27 19:12:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_wool": {
+    "criteria": {
+      "has_white_wool": "2024-11-27 18:33:24 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/oak_crate": {
+    "criteria": {
+      "has_log": "2024-11-27 18:29:34 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/trampoline": {
+    "criteria": {
+      "has_iron": "2024-11-27 18:34:35 +0000"
+    },
+    "done": true
+  },
+  "roadstuff:recipes/roadstuff_group/pink_traffic_bollard": {
+    "criteria": {
+      "has_bitumen": "2024-11-27 18:31:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2024-11-27 19:12:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2024-11-27 18:28:57 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/blacklist_module": {
+    "criteria": {
+      "has_iron": "2024-11-27 18:34:35 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_oak_table": {
+    "criteria": {
+      "has_planks": "2024-11-27 18:29:34 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/speed_module": {
+    "criteria": {
+      "has_iron": "2024-11-27 18:34:35 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/harming_module": {
+    "criteria": {
+      "has_iron": "2024-11-27 18:34:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_wool": {
+    "criteria": {
+      "has_white_wool": "2024-11-27 18:33:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-11-27 19:14:28 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/oak_kitchen_counter": {
+    "criteria": {
+      "has_log": "2024-11-27 18:29:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget": {
+    "criteria": {
+      "has_gold_ingot": "2024-11-27 19:12:53 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_oak_kitchen_drawer": {
+    "criteria": {
+      "has_log": "2024-11-27 18:29:34 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/keypad_frame": {
+    "criteria": {
+      "has_redstone": "2024-11-27 18:49:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "apple": "2024-11-27 18:41:07 +0000"
+    },
+    "done": false
+  },
+  "roadstuff:recipes/roadstuff_group/blue_traffic_barrel": {
+    "criteria": {
+      "has_bitumen": "2024-11-27 18:31:45 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/light_gray_picket_gate": {
+    "criteria": {
+      "has_concrete": "2024-11-27 18:48:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_hoe": {
+    "criteria": {
+      "has_stick": "2024-11-27 18:29:47 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/oak_blinds": {
+    "criteria": {
+      "has_log": "2024-11-27 18:29:34 +0000"
+    },
+    "done": true
+  },
+  "roadstuff:recipes/roadstuff_group/magenta_traffic_barrel": {
+    "criteria": {
+      "has_bitumen": "2024-11-27 18:31:45 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stone_desk": {
+    "criteria": {
+      "has_planks": "2024-11-27 18:43:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bucket": {
+    "criteria": {
+      "has_iron_ingot": "2024-11-27 18:34:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs": {
+    "criteria": {
+      "has_cobblestone": "2024-11-27 18:43:12 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/oak_kitchen_sink_dark": {
+    "criteria": {
+      "has_bottom": "2024-11-27 18:29:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2024-11-27 19:11:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/granite_wall": {
+    "criteria": {
+      "has_granite": "2024-11-27 19:14:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2024-11-27 18:49:35 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/advancednetherite.tab/netherite_emerald_ingot": {
+    "criteria": {
+      "has_OptionalNamedTag[forge:gems/emerald]": "2024-11-27 18:39:07 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/redstone_module": {
+    "criteria": {
+      "has_iron": "2024-11-27 18:34:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_banner": {
+    "criteria": {
+      "has_white_wool": "2024-11-27 18:33:24 +0000"
+    },
+    "done": true
+  },
+  "survive:recipes/main/wool_pants": {
+    "criteria": {
+      "has_wool": "2024-11-27 18:33:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_helmet": {
+    "criteria": {
+      "has_iron_ingot": "2024-11-27 18:34:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_shovel": {
+    "criteria": {
+      "has_gold_ingot": "2024-11-27 19:12:53 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/yellow_grill": {
+    "criteria": {
+      "has_iron": "2024-11-27 18:34:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2024-11-27 18:45:07 +0000"
+    },
+    "done": true
+  },
+  "roadstuff:recipes/roadstuff_group/black_traffic_cone": {
+    "criteria": {
+      "has_bitumen": "2024-11-27 18:31:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-11-27 18:29:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2024-11-27 19:06:42 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/white_sofa": {
+    "criteria": {
+      "has_wool": "2024-11-27 18:33:24 +0000"
+    },
+    "done": true
+  },
+  "tac:recipes/tac/module_item": {
+    "criteria": {
+      "has_diamond": "2024-11-27 19:12:34 +0000"
+    },
+    "done": true
+  },
+  "roadstuff:recipes/roadstuff_group/green_traffic_cone": {
+    "criteria": {
+      "has_bitumen": "2024-11-27 18:31:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2024-11-27 19:12:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2024-11-27 18:43:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_hay_block": "2024-11-27 18:37:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/furnace": {
+    "criteria": {
+      "has_cobblestone": "2024-11-27 18:43:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/minecart": {
+    "criteria": {
+      "has_iron_ingot": "2024-11-27 18:34:35 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/advancednetherite.tab/netherite_iron_ingot": {
+    "criteria": {
+      "has_OptionalNamedTag[forge:ingots/iron]": "2024-11-27 18:34:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2024-11-27 19:13:11 +0000"
+    },
+    "done": true
+  },
+  "roadstuff:recipes/roadstuff_group/light_gray_traffic_barrel": {
+    "criteria": {
+      "has_bitumen": "2024-11-27 18:31:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2024-11-27 18:29:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_wool": {
+    "criteria": {
+      "has_white_wool": "2024-11-27 18:33:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_hoe": {
+    "criteria": {
+      "has_iron_ingot": "2024-11-27 18:34:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_pickaxe": {
+    "criteria": {
+      "has_stick": "2024-11-27 18:29:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2024-11-27 19:11:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2024-11-27 18:49:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2024-11-27 18:41:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2024-11-27 19:11:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2024-11-27 18:28:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/golden_apple": {
+    "criteria": {
+      "has_gold_ingot": "2024-11-27 19:12:53 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/sonic_security_system": {
+    "criteria": {
+      "has_stick": "2024-11-27 18:29:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-11-27 19:14:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_shovel": {
+    "criteria": {
+      "has_iron_ingot": "2024-11-27 18:34:35 +0000"
+    },
+    "done": true
+  },
+  "roadstuff:recipes/roadstuff_group/yellow_traffic_cone": {
+    "criteria": {
+      "has_bitumen": "2024-11-27 18:31:45 +0000"
+    },
+    "done": true
+  },
+  "roadstuff:recipes/roadstuff_group/red_traffic_cone": {
+    "criteria": {
+      "has_bitumen": "2024-11-27 18:31:45 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2024-11-27 18:24:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2024-11-27 18:49:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_hoe": {
+    "criteria": {
+      "has_cobblestone": "2024-11-27 18:43:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2024-11-27 19:12:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2024-11-27 18:38:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2024-11-27 19:12:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_slab_from_polished_granite_stonecutting": {
+    "criteria": {
+      "has_polished_granite": "2024-11-27 19:14:26 +0000"
+    },
+    "done": true
+  },
+  "roadstuff:recipes/roadstuff_group/yellow_traffic_barrel": {
+    "criteria": {
+      "has_bitumen": "2024-11-27 18:31:45 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/oak_upgraded_gate": {
+    "criteria": {
+      "has_log": "2024-11-27 18:29:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_slab": {
+    "criteria": {
+      "has_granite": "2024-11-27 19:14:28 +0000"
+    },
+    "done": true
+  },
+  "roadstuff:recipes/roadstuff_group/purple_traffic_bollard": {
+    "criteria": {
+      "has_bitumen": "2024-11-27 18:31:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2024-11-27 18:38:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_carpet": {
+    "criteria": {
+      "has_white_wool": "2024-11-27 18:33:24 +0000"
+    },
+    "done": true
+  },
+  "roadstuff:recipes/roadstuff_group/paint_brush": {
+    "criteria": {
+      "has_wool": "2024-11-27 18:33:24 +0000"
+    },
+    "done": true
+  },
+  "mts:root": {
+    "criteria": {
+      "crafting_table": "2024-11-27 18:29:47 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/white_grill": {
+    "criteria": {
+      "has_iron": "2024-11-27 18:34:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2024-11-27 19:12:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2024-11-27 19:12:34 +0000"
+    },
+    "done": true
+  },
+  "roadstuff:recipes/roadstuff_group/magenta_traffic_cone": {
+    "criteria": {
+      "has_bitumen": "2024-11-27 18:31:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2024-11-27 19:12:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-11-27 19:14:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2024-11-27 18:28:57 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/advancednetherite.tab/netherite_gold_ingot": {
+    "criteria": {
+      "has_OptionalNamedTag[forge:ingots/gold]": "2024-11-27 19:12:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stone_bricks": "2024-11-27 19:11:47 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/oak_park_bench": {
+    "criteria": {
+      "has_log": "2024-11-27 18:29:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_boots": {
+    "criteria": {
+      "has_gold_ingot": "2024-11-27 19:12:53 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/claymore": {
+    "criteria": {
+      "has_redstone": "2024-11-27 18:49:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_axe": {
+    "criteria": {
+      "has_stick": "2024-11-27 18:29:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lime_wool": {
+    "criteria": {
+      "has_white_wool": "2024-11-27 18:33:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2024-11-27 19:11:47 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/keycard_lv2": {
+    "criteria": {
+      "has_iron": "2024-11-27 18:34:35 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/keycard_lv1": {
+    "criteria": {
+      "has_iron": "2024-11-27 18:34:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2024-11-27 18:45:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_wool": {
+    "criteria": {
+      "has_white_wool": "2024-11-27 18:33:24 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/bouncing_betty": {
+    "criteria": {
+      "has_iron": "2024-11-27 18:34:35 +0000"
+    },
+    "done": true
+  },
+  "roadstuff:recipes/roadstuff_group/black_traffic_bollard": {
+    "criteria": {
+      "has_bitumen": "2024-11-27 18:31:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2024-11-27 19:12:34 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/light_gray_grill": {
+    "criteria": {
+      "has_iron": "2024-11-27 18:34:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_wool": {
+    "criteria": {
+      "has_white_wool": "2024-11-27 18:33:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2024-11-27 18:33:28 +0000"
+    },
+    "done": true
+  },
+  "trashcans:recipes/decorations/energy_trash_can": {
+    "criteria": {
+      "recipe_condition": "2024-11-27 18:49:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2024-11-27 18:33:24 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/keycard_lv4": {
     "criteria": {
       "has_iron": "2024-11-27 18:34:35 +0000"
@@ -1211,12 +1963,6 @@
     },
     "done": true
   },
-  "roadstuff:recipes/roadstuff_group/paint_bucket": {
-    "criteria": {
-      "has_iron_ingot": "2024-11-27 18:34:35 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/securitycraft/keycard_lv5": {
     "criteria": {
       "has_iron": "2024-11-27 18:34:35 +0000"
@@ -1229,27 +1975,15 @@
     },
     "done": true
   },
-  "securitycraft:recipes/securitycraft/username_logger": {
+  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
-      "has_redstone": "2024-11-27 18:49:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/light_blue_wool": {
-    "criteria": {
-      "has_white_wool": "2024-11-27 18:33:24 +0000"
+      "has_gold_ingot": "2024-11-27 19:12:53 +0000"
     },
     "done": true
   },
   "roadstuff:recipes/roadstuff_group/light_blue_traffic_bollard": {
     "criteria": {
       "has_bitumen": "2024-11-27 18:31:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/wooden_sword": {
-    "criteria": {
-      "has_stick": "2024-11-27 18:29:47 +0000"
     },
     "done": true
   },
@@ -1265,27 +1999,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/oak_planks": {
-    "criteria": {
-      "has_logs": "2024-11-27 18:29:34 +0000"
-    },
-    "done": true
-  },
   "survive:recipes/main/wool_boots": {
     "criteria": {
       "has_wool": "2024-11-27 18:33:24 +0000"
     },
     "done": true
   },
-  "securitycraft:recipes/securitycraft/cage_trap": {
+  "minecraft:recipes/misc/conduit": {
     "criteria": {
-      "has_redstone": "2024-11-27 18:49:35 +0000"
+      "has_nautilus_core": "2024-11-27 19:12:42 +0000"
     },
     "done": true
   },
-  "roadstuff:recipes/roadstuff_group/purple_traffic_barrel": {
+  "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
     "criteria": {
-      "has_bitumen": "2024-11-27 18:31:45 +0000"
+      "has_granite": "2024-11-27 19:14:28 +0000"
     },
     "done": true
   },
@@ -1307,33 +2035,9 @@
     },
     "done": true
   },
-  "cfm:recipes/cfm/stripped_oak_kitchen_counter": {
-    "criteria": {
-      "has_log": "2024-11-27 18:29:34 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/securitycraft/smart_module": {
-    "criteria": {
-      "has_iron": "2024-11-27 18:34:35 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/securitycraft/universal_block_reinforcer_lvl3": {
     "criteria": {
       "has_redstone": "2024-11-27 18:49:35 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/securitycraft/block_change_detector": {
-    "criteria": {
-      "has_iron": "2024-11-27 18:34:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/iron_axe": {
-    "criteria": {
-      "has_iron_ingot": "2024-11-27 18:34:35 +0000"
     },
     "done": true
   },
@@ -1343,21 +2047,15 @@
     },
     "done": true
   },
-  "mapperbase:recipes/mapperbase_group/ferrite": {
+  "minecraft:recipes/combat/golden_helmet": {
     "criteria": {
-      "has_iron_ingot": "2024-11-27 18:34:35 +0000"
+      "has_gold_ingot": "2024-11-27 19:12:53 +0000"
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/blasting_upgrade_from_smelting_upgrade": {
+  "minecraft:recipes/tools/lead": {
     "criteria": {
-      "has_smelting_upgrade": "2024-11-27 18:24:03 +0000"
-    },
-    "done": true
-  },
-  "roadstuff:recipes/roadstuff_group/pink_traffic_barrel": {
-    "criteria": {
-      "has_bitumen": "2024-11-27 18:31:45 +0000"
+      "has_slime_ball": "2024-11-27 19:12:18 +0000"
     },
     "done": true
   },
@@ -1367,33 +2065,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/tripwire_hook": {
-    "criteria": {
-      "has_string": "2024-11-27 18:45:07 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/oak_pressure_plate": {
     "criteria": {
       "has_planks": "2024-11-27 18:29:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/iron_boots": {
-    "criteria": {
-      "has_iron_ingot": "2024-11-27 18:34:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/bone_meal": {
-    "criteria": {
-      "has_bone": "2024-11-27 18:34:56 +0000"
-    },
-    "done": true
-  },
-  "roadstuff:recipes/roadstuff_group/green_traffic_bollard": {
-    "criteria": {
-      "has_bitumen": "2024-11-27 18:31:45 +0000"
     },
     "done": true
   },
@@ -1427,31 +2101,7 @@
     },
     "done": true
   },
-  "comforts:sleeping_bag_white": {
-    "criteria": {
-      "has_white_wool": "2024-11-27 18:33:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/cartography_table": {
-    "criteria": {
-      "has_paper": "2024-11-27 18:37:33 +0000"
-    },
-    "done": true
-  },
   "roadstuff:recipes/roadstuff_group/light_gray_traffic_cone": {
-    "criteria": {
-      "has_bitumen": "2024-11-27 18:31:45 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/farmersdelight/iron_knife": {
-    "criteria": {
-      "has_iron_ingot": "2024-11-27 18:34:35 +0000"
-    },
-    "done": true
-  },
-  "roadstuff:recipes/roadstuff_group/brown_traffic_barrel": {
     "criteria": {
       "has_bitumen": "2024-11-27 18:31:45 +0000"
     },
@@ -1469,21 +2119,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/iron_chestplate": {
-    "criteria": {
-      "has_iron_ingot": "2024-11-27 18:34:35 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/dropper": {
     "criteria": {
       "has_redstone": "2024-11-27 18:49:35 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/combat/crossbow": {
+  "cfm:recipes/cfm/granite_bedside_cabinet": {
     "criteria": {
-      "has_stick": "2024-11-27 18:29:47 +0000"
+      "has_log": "2024-11-27 19:14:26 +0000"
     },
     "done": true
   },
@@ -1493,57 +2137,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/yellow_wool": {
-    "criteria": {
-      "has_white_wool": "2024-11-27 18:33:24 +0000"
-    },
-    "done": true
-  },
   "roadstuff:recipes/roadstuff_group/orange_traffic_barrel": {
     "criteria": {
       "has_bitumen": "2024-11-27 18:31:45 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/oak_sign": {
+  "minecraft:recipes/brewing/brewing_stand": {
     "criteria": {
-      "has_oak_planks": "2024-11-27 18:29:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
-    "criteria": {
-      "has_porkchop": "2024-11-27 18:33:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/oak_trapdoor": {
-    "criteria": {
-      "has_planks": "2024-11-27 18:29:45 +0000"
-    },
-    "done": true
-  },
-  "roadstuff:recipes/roadstuff_group/white_traffic_cone": {
-    "criteria": {
-      "has_bitumen": "2024-11-27 18:31:45 +0000"
-    },
-    "done": true
-  },
-  "comforts:rope_and_nail": {
-    "criteria": {
-      "has_iron": "2024-11-27 18:34:35 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/securitycraft/portable_tune_player": {
-    "criteria": {
-      "has_redstone": "2024-11-27 18:49:35 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/cfm/stripped_oak_desk": {
-    "criteria": {
-      "has_planks": "2024-11-27 18:29:34 +0000"
+      "has_blaze_rod": "2024-11-27 19:13:11 +0000"
     },
     "done": true
   },
@@ -1553,27 +2155,9 @@
     },
     "done": true
   },
-  "betterdungeons:root": {
+  "minecraft:recipes/building_blocks/polished_granite_slab": {
     "criteria": {
-      "always": "2024-11-27 18:24:03 +0000"
-    },
-    "done": true
-  },
-  "mapperbase:recipes/mapperbase_group/flatter_hammer": {
-    "criteria": {
-      "has_stick": "2024-11-27 18:29:47 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/securitycraft/reinforced_diorite": {
-    "criteria": {
-      "has_cobblestone": "2024-11-27 18:43:12 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/securitycraft/trophy_system": {
-    "criteria": {
-      "has_iron": "2024-11-27 18:34:35 +0000"
+      "has_polished_granite": "2024-11-27 19:14:26 +0000"
     },
     "done": true
   },
@@ -1589,27 +2173,9 @@
     },
     "done": true
   },
-  "lootr:root": {
-    "criteria": {
-      "always_true": "2024-11-27 18:24:03 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/securitycraft/camera_monitor": {
-    "criteria": {
-      "has_iron": "2024-11-27 18:34:35 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/oak_button": {
     "criteria": {
       "has_planks": "2024-11-27 18:29:45 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/securitycraft/limited_use_keycard": {
-    "criteria": {
-      "has_iron": "2024-11-27 18:34:35 +0000"
     },
     "done": true
   },
@@ -1625,9 +2191,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stone": {
+  "minecraft:nether/obtain_blaze_rod": {
     "criteria": {
-      "has_cobblestone": "2024-11-27 18:43:12 +0000"
+      "blaze_rod": "2024-11-27 19:13:11 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/granite_chair": {
+    "criteria": {
+      "has_log": "2024-11-27 19:14:26 +0000"
     },
     "done": true
   },
@@ -1649,6 +2221,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2024-11-27 19:11:47 +0000"
+    },
+    "done": true
+  },
   "mapperbase:recipes/mapperbase_group/asphalt3": {
     "criteria": {
       "has_raw_bitumen": "2024-11-27 18:31:45 +0000"
@@ -1661,53 +2239,9 @@
     },
     "done": true
   },
-  "minecraft:adventure/adventuring_time": {
-    "criteria": {
-      "minecraft:jungle_edge": "2024-11-27 18:33:45 +0000",
-      "minecraft:forest": "2024-11-27 18:24:03 +0000",
-      "minecraft:taiga": "2024-11-27 18:47:33 +0000",
-      "minecraft:taiga_hills": "2024-11-27 18:51:22 +0000",
-      "minecraft:jungle": "2024-11-27 18:27:41 +0000",
-      "minecraft:bamboo_jungle": "2024-11-27 18:31:12 +0000",
-      "minecraft:river": "2024-11-27 18:27:01 +0000",
-      "minecraft:wooded_hills": "2024-11-27 18:59:41 +0000",
-      "minecraft:plains": "2024-11-27 18:33:48 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/redstone/iron_door": {
     "criteria": {
       "has_iron_ingot": "2024-11-27 18:34:35 +0000"
-    },
-    "done": true
-  },
-  "roadstuff:recipes/roadstuff_group/gray_traffic_bollard": {
-    "criteria": {
-      "has_bitumen": "2024-11-27 18:31:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/book": {
-    "criteria": {
-      "has_paper": "2024-11-27 18:37:33 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/cfm/red_grill": {
-    "criteria": {
-      "has_iron": "2024-11-27 18:34:35 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/securitycraft/whitelist_module": {
-    "criteria": {
-      "has_iron": "2024-11-27 18:34:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/stone_sword": {
-    "criteria": {
-      "has_cobblestone": "2024-11-27 18:43:12 +0000"
     },
     "done": true
   },
@@ -1717,51 +2251,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/cobblestone_wall": {
-    "criteria": {
-      "has_cobblestone": "2024-11-27 18:43:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/barrel": {
-    "criteria": {
-      "has_planks": "2024-11-27 18:29:45 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/cfm/stone_cabinet": {
-    "criteria": {
-      "has_planks": "2024-11-27 18:43:12 +0000"
-    },
-    "done": true
-  },
   "roadstuff:recipes/roadstuff_group/blue_traffic_bollard": {
     "criteria": {
       "has_bitumen": "2024-11-27 18:31:45 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/tools/stone_pickaxe": {
-    "criteria": {
-      "has_cobblestone": "2024-11-27 18:43:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/smithing_table": {
-    "criteria": {
-      "has_iron_ingot": "2024-11-27 18:34:35 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/cfm/gray_grill": {
     "criteria": {
       "has_iron": "2024-11-27 18:34:35 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/cfm/oak_desk_cabinet": {
-    "criteria": {
-      "has_log": "2024-11-27 18:29:34 +0000"
     },
     "done": true
   },
@@ -1777,9 +2275,9 @@
     },
     "done": true
   },
-  "roadstuff:recipes/roadstuff_group/red_traffic_barrel": {
+  "farmersdelight:recipes/farmersdelight/diamond_knife": {
     "criteria": {
-      "has_bitumen": "2024-11-27 18:31:45 +0000"
+      "has_diamond": "2024-11-27 19:12:34 +0000"
     },
     "done": true
   },
@@ -1795,18 +2293,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
-    "criteria": {
-      "has_cobblestone": "2024-11-27 18:43:12 +0000"
-    },
-    "done": true
-  },
-  "roadstuff:recipes/roadstuff_group/red_small_bollard": {
-    "criteria": {
-      "has_stick": "2024-11-27 18:29:47 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/securitycraft/mine": {
     "criteria": {
       "has_iron": "2024-11-27 18:34:35 +0000"
@@ -1819,9 +2305,9 @@
     },
     "done": true
   },
-  "cfm:recipes/cfm/black_grill": {
+  "farmersdelight:recipes/farmersdelight/golden_knife": {
     "criteria": {
-      "has_iron": "2024-11-27 18:34:35 +0000"
+      "has_gold_ingot": "2024-11-27 19:12:53 +0000"
     },
     "done": true
   },
@@ -1855,6 +2341,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_granite": {
+    "criteria": {
+      "has_stone": "2024-11-27 19:14:28 +0000"
+    },
+    "done": true
+  },
   "roadstuff:recipes/roadstuff_group/yellow_traffic_bollard": {
     "criteria": {
       "has_bitumen": "2024-11-27 18:31:45 +0000"
@@ -1873,21 +2365,15 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/golden_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2024-11-27 19:12:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/piston": {
     "criteria": {
       "has_redstone": "2024-11-27 18:49:35 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/auto_blasting_upgrade": {
-    "criteria": {
-      "has_blasting_upgrade": "2024-11-27 18:24:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/lantern": {
-    "criteria": {
-      "has_iron_ingot": "2024-11-27 18:34:35 +0000"
     },
     "done": true
   },
@@ -1897,27 +2383,9 @@
     },
     "done": true
   },
-  "cfm:recipes/cfm/light_blue_grill": {
-    "criteria": {
-      "has_iron": "2024-11-27 18:34:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/stick_from_bamboo_item": {
-    "criteria": {
-      "has_bamboo": "2024-11-27 18:33:28 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/cfm/oak_upgraded_fence": {
     "criteria": {
       "has_log": "2024-11-27 18:29:34 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/cfm/post_box": {
-    "criteria": {
-      "has_iron": "2024-11-27 18:34:35 +0000"
     },
     "done": true
   },
@@ -1933,39 +2401,21 @@
     },
     "done": true
   },
-  "roadstuff:recipes/roadstuff_group/light_blue_traffic_barrel": {
-    "criteria": {
-      "has_bitumen": "2024-11-27 18:31:45 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/food/cooked_porkchop_from_grill_cooking": {
     "criteria": {
       "has_porkchop": "2024-11-27 18:33:08 +0000"
     },
     "done": true
   },
-  "cfm:recipes/cfm/stone_table": {
+  "minecraft:recipes/combat/diamond_boots": {
     "criteria": {
-      "has_planks": "2024-11-27 18:43:12 +0000"
+      "has_diamond": "2024-11-27 19:12:34 +0000"
     },
     "done": true
   },
   "securitycraft:recipes/securitycraft/reinforced_fence_gate": {
     "criteria": {
       "has_iron": "2024-11-27 18:34:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/light_gray_wool": {
-    "criteria": {
-      "has_white_wool": "2024-11-27 18:33:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/red_wool": {
-    "criteria": {
-      "has_white_wool": "2024-11-27 18:33:24 +0000"
     },
     "done": true
   },
@@ -1981,33 +2431,9 @@
     },
     "done": true
   },
-  "securitycraft:recipes/securitycraft/alarm": {
-    "criteria": {
-      "has_redstone": "2024-11-27 18:49:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/stone_axe": {
-    "criteria": {
-      "has_cobblestone": "2024-11-27 18:43:12 +0000"
-    },
-    "done": true
-  },
   "roadstuff:recipes/roadstuff_group/brown_traffic_cone": {
     "criteria": {
       "has_bitumen": "2024-11-27 18:31:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_mutton": {
-    "criteria": {
-      "has_mutton": "2024-11-27 18:33:24 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/securitycraft/disguise_module": {
-    "criteria": {
-      "has_iron": "2024-11-27 18:34:35 +0000"
     },
     "done": true
   },
