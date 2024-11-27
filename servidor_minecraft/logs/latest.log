@@ -3580,3 +3580,67 @@ Caused by: java.lang.UnsupportedClassVersionError: uk/antiperson/stackmob/StackM
 [18:28:49] [Server thread/WARN] [/]: 	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:267)
 [18:28:49] [Server thread/WARN] [/]: 	at java.base/java.lang.Thread.run(Thread.java:829)
 [18:29:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: paulzhb has made the advancement [Immersive Vehicles (MTS)]
+[18:30:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AugustoGamer_YT has made the advancement [Crops of the Wild]
+[18:31:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AugustoGamer_YT has made the advancement [Immersive Vehicles (MTS)]
+[18:32:09] [User Authenticator #7/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Squarewar is 9fd458ae-15ab-3556-bb80-acf6b5be1f94
+[18:32:10] [Netty Epoll Server IO #0/INFO] [net.minecraftforge.fml.network.FMLHandshakeHandler/]: Client attempting to join with 98 mods : notenoughcrashes, betterdungeons, auudio, unionlib, k-turrets, supermartijn642configlib, iv_tcp_v3, transliterationlib, cure, philips_ruins1_16_5, jei, incontrol, satako, tac, journeymap, controlling, comforts, travelersbackpack, sereneseasons, yungsapi, mutantbeasts, bookshelf, badmobs, farsightedmobs, sophisticatedbackpacks, mapperbase, food_cans, mts, hordes, firstaid, forge, dummmmmmy, emojiful, iv_tpp, konkrete, dsurround, sndctrl, environs, mobeffects, selene, chipped, minecraft, farmersdelight, mtsofficialpack, horsecombatcontrols, dustrial_decor, voicechat, enchdesc, swingthroughgrass, mousetweaks, toolbelt, geode, entity_culling, shouldersurfing, bunker_down, supermartijn642corelib, zombie_drops_, notenoughanimations, curios, gravestone, collective, roadstuff, mobsunscreen, appletreesrev, advancednetherite, polymorph, securitycraft, betterthirdperson, lostcities, survive, obfuscate, betterstrongholds, ambientenvironment, bear_trap, fancymenu, atlaslib, worldedit, starterkit, eatinganimation, coroutil, onlylooking, blood_and_gore, cfm, appleskin, lootr, engineersdecor, firstjoinmessage, cloth-config, nefdecomod, enhancedcelestials, trashcans, detailab, letmedespawn, fastleafdecay, bettermineshafts, fmextension_audio, exlinefurniture, effortlessbuilding
+[18:32:13] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Squarewar[/127.26.84.133:59429] logged in with entity id 3,153 at (43.5, 72, -66.5)
+[18:32:13] [Server thread/INFO] [tac/]: PENDING
+[18:32:15] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Squarewar (18)
+[18:32:15] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Squarewar
+[18:32:16] [Server thread/ERROR] [mcinterface1165.InterfaceLoader/]: MTSERROR: ConfigSystem failed to save modified config files.  Report to the mod author!
+[18:32:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Squarewar has made the advancement [RTFM]
+[18:32:24] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 9fd458ae-15ab-3556-bb80-acf6b5be1f94
+[18:32:25] [Worker-Main-49/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id nefdecomod:illager_lady_entity
+[18:32:25] [Worker-Main-49/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id nefdecomod:old_villager
+[18:32:25] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 9fd458ae-15ab-3556-bb80-acf6b5be1f94
+[18:32:25] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Squarewar (9fd458ae-15ab-3556-bb80-acf6b5be1f94) successfully connected to voice chat
+[18:32:41] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Squarewar issued server command: /skin
+[18:32:42] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: paulzhb issued server command: /skin random
+[18:32:46] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Squarewar issued server command: /skinsrestorer:skins
+[18:33:07] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Squarewar issued server command: /skin set squarewar
+[18:34:07] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: paulzhb issued server command: /skin random
+[18:34:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: paulzhb has made the advancement ['X' Marks the Spot]
+[18:34:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: paulzhb has made the advancement [Acquire Hardware]
+[18:34:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: paulzhb hit the ground too hard
+[18:34:46] [Server thread/INFO] [tac/]: PENDING
+[18:35:08] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Squarewar lost connection: Disconnected
+[18:35:08] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Squarewar
+[18:35:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Squarewar left the game
+[18:35:42] [User Authenticator #8/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Squarewar is 9fd458ae-15ab-3556-bb80-acf6b5be1f94
+[18:35:43] [Netty Epoll Server IO #4/INFO] [net.minecraftforge.fml.network.FMLHandshakeHandler/]: Client attempting to join with 98 mods : notenoughcrashes, betterdungeons, auudio, unionlib, k-turrets, supermartijn642configlib, iv_tcp_v3, transliterationlib, cure, philips_ruins1_16_5, jei, incontrol, satako, tac, journeymap, controlling, comforts, travelersbackpack, sereneseasons, yungsapi, mutantbeasts, bookshelf, badmobs, farsightedmobs, sophisticatedbackpacks, mapperbase, food_cans, mts, hordes, firstaid, forge, dummmmmmy, emojiful, iv_tpp, konkrete, dsurround, sndctrl, environs, mobeffects, selene, chipped, minecraft, farmersdelight, mtsofficialpack, horsecombatcontrols, dustrial_decor, voicechat, enchdesc, swingthroughgrass, mousetweaks, toolbelt, geode, entity_culling, shouldersurfing, bunker_down, supermartijn642corelib, zombie_drops_, notenoughanimations, curios, gravestone, collective, roadstuff, mobsunscreen, appletreesrev, advancednetherite, polymorph, securitycraft, betterthirdperson, lostcities, survive, obfuscate, betterstrongholds, ambientenvironment, bear_trap, fancymenu, atlaslib, worldedit, starterkit, eatinganimation, coroutil, onlylooking, blood_and_gore, cfm, appleskin, lootr, engineersdecor, firstjoinmessage, cloth-config, nefdecomod, enhancedcelestials, trashcans, detailab, letmedespawn, fastleafdecay, bettermineshafts, fmextension_audio, exlinefurniture, effortlessbuilding
+[18:35:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AugustoGamer_YT was slain by Silverfish
+[18:35:47] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Squarewar[/127.26.84.133:41793] logged in with entity id 4,651 at (49.035, 33, -67.424)
+[18:35:47] [Server thread/INFO] [tac/]: PENDING
+[18:35:47] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Squarewar (18)
+[18:35:47] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Squarewar
+[18:35:48] [Server thread/INFO] [tac/]: PENDING
+[18:35:53] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 9fd458ae-15ab-3556-bb80-acf6b5be1f94
+[18:35:54] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 9fd458ae-15ab-3556-bb80-acf6b5be1f94
+[18:35:54] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Squarewar (9fd458ae-15ab-3556-bb80-acf6b5be1f94) successfully connected to voice chat
+[18:35:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AugustoGamer_YT was slain by Squarewar
+[18:36:00] [Server thread/INFO] [tac/]: PENDING
+[18:36:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Squarewar has made the advancement ['X' Marks the Spot]
+[18:36:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AugustoGamer_YT was slain by Squarewar
+[18:36:34] [Server thread/INFO] [tac/]: PENDING
+[18:37:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: paulzhb has made the advancement [Sweet Dreams]
+[18:38:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Squarewar was shot by Skeleton
+[18:38:32] [Server thread/INFO] [tac/]: PENDING
+[18:38:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AugustoGamer_YT has made the advancement [Cobweb Entanglement]
+[18:38:47] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Squarewar issued server command: /skin set squarewar
+[18:40:03] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Squarewar lost connection: Disconnected
+[18:40:03] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Squarewar
+[18:40:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Squarewar left the game
+[18:40:09] [User Authenticator #9/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Squarewar is 9fd458ae-15ab-3556-bb80-acf6b5be1f94
+[18:40:10] [Netty Epoll Server IO #6/INFO] [net.minecraftforge.fml.network.FMLHandshakeHandler/]: Client attempting to join with 98 mods : notenoughcrashes, betterdungeons, auudio, unionlib, k-turrets, supermartijn642configlib, iv_tcp_v3, transliterationlib, cure, philips_ruins1_16_5, jei, incontrol, satako, tac, journeymap, controlling, comforts, travelersbackpack, sereneseasons, yungsapi, mutantbeasts, bookshelf, badmobs, farsightedmobs, sophisticatedbackpacks, mapperbase, food_cans, mts, hordes, firstaid, forge, dummmmmmy, emojiful, iv_tpp, konkrete, dsurround, sndctrl, environs, mobeffects, selene, chipped, minecraft, farmersdelight, mtsofficialpack, horsecombatcontrols, dustrial_decor, voicechat, enchdesc, swingthroughgrass, mousetweaks, toolbelt, geode, entity_culling, shouldersurfing, bunker_down, supermartijn642corelib, zombie_drops_, notenoughanimations, curios, gravestone, collective, roadstuff, mobsunscreen, appletreesrev, advancednetherite, polymorph, securitycraft, betterthirdperson, lostcities, survive, obfuscate, betterstrongholds, ambientenvironment, bear_trap, fancymenu, atlaslib, worldedit, starterkit, eatinganimation, coroutil, onlylooking, blood_and_gore, cfm, appleskin, lootr, engineersdecor, firstjoinmessage, cloth-config, nefdecomod, enhancedcelestials, trashcans, detailab, letmedespawn, fastleafdecay, bettermineshafts, fmextension_audio, exlinefurniture, effortlessbuilding
+[18:40:14] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Squarewar[/127.26.84.133:45755] logged in with entity id 6,374 at (24.384, 78, -92.7)
+[18:40:14] [Server thread/INFO] [tac/]: PENDING
+[18:40:14] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Squarewar (18)
+[18:40:14] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Squarewar
+[18:40:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AugustoGamer_YT was slain by Zombie
+[18:40:20] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 9fd458ae-15ab-3556-bb80-acf6b5be1f94
+[18:40:21] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 9fd458ae-15ab-3556-bb80-acf6b5be1f94
+[18:40:21] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Squarewar (9fd458ae-15ab-3556-bb80-acf6b5be1f94) successfully connected to voice chat
+[18:40:21] [Server thread/INFO] [tac/]: PENDING
+[18:40:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Squarewar hit the ground too hard
+[18:40:39] [Server thread/INFO] [tac/]: PENDING
