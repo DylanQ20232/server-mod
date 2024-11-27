@@ -3644,3 +3644,20 @@ Caused by: java.lang.UnsupportedClassVersionError: uk/antiperson/stackmob/StackM
 [18:40:21] [Server thread/INFO] [tac/]: PENDING
 [18:40:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Squarewar hit the ground too hard
 [18:40:39] [Server thread/INFO] [tac/]: PENDING
+[18:41:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AugustoGamer_YT was shot by Skeleton
+[18:41:20] [Server thread/INFO] [tac/]: PENDING
+[18:41:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Squarewar was shot by Skeleton
+[18:41:31] [Server thread/INFO] [tac/]: PENDING
+[18:42:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AugustoGamer_YT was shot by Skeleton
+[18:42:09] [Server thread/INFO] [tac/]: PENDING
+[18:42:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Squarewar was shot by Skeleton
+[18:42:31] [Server thread/INFO] [tac/]: PENDING
+[18:43:01] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Squarewar issued server command: /skin set squarewar
+[18:43:01] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Squarewar moved too quickly! -1.197,33,1.146
+[18:43:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: paulzhb has made the advancement [Stone Age]
+[18:43:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Squarewar has made the advancement [Sweet Dreams]
+[18:46:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Squarewar was blown up by Creeper
+[18:46:47] [Server thread/INFO] [tac/]: PENDING
+[18:48:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: paulzhb was shot by Skeleton
+[18:48:06] [Server thread/INFO] [tac/]: PENDING
+[18:49:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Squarewar has made the advancement [Best Friends Forever]
