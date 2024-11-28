@@ -257,6 +257,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_blasting": {
+    "criteria": {
+      "has_iron_ore": "2024-11-28 21:48:43 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/brown_grill": {
     "criteria": {
       "has_iron": "2024-11-27 18:53:30 +0000"
@@ -369,6 +375,12 @@
   "minecraft:recipes/redstone/dark_oak_door": {
     "criteria": {
       "has_planks": "2024-11-28 20:22:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2024-11-28 22:00:32 +0000"
     },
     "done": true
   },
@@ -1101,6 +1113,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2024-11-28 21:57:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
     "criteria": {
       "has_potato": "2024-11-27 18:20:58 +0000"
@@ -1817,6 +1835,7 @@
       "minecraft:beach": "2024-11-28 18:17:14 +0000",
       "minecraft:dark_forest": "2024-11-28 18:14:39 +0000",
       "minecraft:river": "2024-11-27 03:54:43 +0000",
+      "minecraft:lukewarm_ocean": "2024-11-28 21:57:32 +0000",
       "minecraft:wooded_mountains": "2024-11-28 18:14:46 +0000",
       "minecraft:wooded_hills": "2024-11-27 18:29:00 +0000",
       "minecraft:stone_shore": "2024-11-28 18:15:54 +0000",
@@ -3310,9 +3329,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2024-11-28 22:00:32 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/warped_kitchen_drawer": {
     "criteria": {
       "has_chest": "2024-11-27 19:41:13 +0000"
+    },
+    "done": true
+  },
+  "lootr:25loot": {
+    "criteria": {
+      "loot_stat": "2024-11-28 21:57:43 +0000"
     },
     "done": true
   },
@@ -4003,6 +4034,12 @@
   "minecraft:recipes/redstone/oak_button": {
     "criteria": {
       "has_planks": "2024-11-27 18:14:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot": {
+    "criteria": {
+      "has_iron_ore": "2024-11-28 21:48:43 +0000"
     },
     "done": true
   },

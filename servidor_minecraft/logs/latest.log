@@ -3557,3 +3557,63 @@ Caused by: java.lang.UnsupportedClassVersionError: uk/antiperson/stackmob/StackM
 [21:45:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Made AugustoGamer_YT a server operator
 [21:45:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Made AugustoGamer_YT no longer a server operator
 [21:45:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Set AugustoGamer_YT's game mode to Creative Mode
+[21:47:15] [Server thread/ERROR] [noobanidus.mods.lootr.Lootr/]: Unable to fill loot chest in ResourceKey[minecraft:dimension / minecraft:overworld] at BlockPos{x=22, y=76, z=-3264} as the loot table 'minecraft:chests/village_fletcher' couldn't be resolved! Please search the loot table in `latest.log` to see if there are errors in loading.
+[21:47:20] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/437, l='ServerLevel[world]', x=21.86, y=70.00, z=-3261.38] died, message: 'Villager was shot by Pillager'
+[21:47:52] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/442, l='ServerLevel[world]', x=22.31, y=70.00, z=-3261.56] died, message: 'Villager was shot by Pillager'
+[21:47:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Set AugustoGamer_YT's game mode to Survival Mode
+[21:48:14] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/438, l='ServerLevel[world]', x=21.27, y=70.00, z=-3261.30] died, message: 'Villager was shot by Pillager'
+[21:48:18] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/439, l='ServerLevel[world]', x=21.54, y=70.00, z=-3261.41] died, message: 'Villager was shot by Pillager'
+[21:48:24] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/441, l='ServerLevel[world]', x=21.19, y=70.00, z=-3261.70] died, message: 'Villager was shot by Pillager'
+[21:48:26] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/440, l='ServerLevel[world]', x=21.29, y=70.00, z=-3261.32] died, message: 'Villager was shot by Pillager'
+[21:50:22] [Server thread/INFO] [sereneseasons/]: Season time skipped by 11004 in minecraft:the_nether
+[21:50:22] [Server thread/INFO] [sereneseasons/]: Season time skipped by 11004 in minecraft:the_end
+[21:50:22] [Server thread/INFO] [sereneseasons/]: Season time skipped by 11004 in lostcities:lostcity
+[21:50:22] [Server thread/INFO] [sereneseasons/]: Season time skipped by 11004 in minecraft:overworld
+[21:53:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AugustoGamer_YT was shot by Skeleton
+[21:53:44] [Server thread/INFO] [tac/]: PENDING
+[21:53:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Made AugustoGamer_YT a server operator
+[21:54:42] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: AugustoGamer_YT issued server command: /kill AugustoGamer_YT
+[21:54:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AugustoGamer_YT fell out of the world
+[21:54:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AugustoGamer_YT: Killed AugustoGamer_YT]
+[21:54:45] [Server thread/INFO] [tac/]: PENDING
+[21:54:52] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: AugustoGamer_YT issued server command: /gamemode creative
+[21:54:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AugustoGamer_YT: Set own game mode to Creative Mode]
+[21:55:54] [Server thread/WARN] [/]: java.io.IOException: Base resource not found: zs$2.class
+[21:55:54] [Server thread/WARN] [/]: 	at optifine.Patcher.applyPatch(Patcher.java:146)
+[21:55:54] [Server thread/WARN] [/]: 	at optifine.OptiFineTransformer.getOptiFineResourcePatched(OptiFineTransformer.java:396)
+[21:55:54] [Server thread/WARN] [/]: 	at optifine.OptiFineTransformer.getOptiFineResourceStreamPatched(OptiFineTransformer.java:368)
+[21:55:54] [Server thread/WARN] [/]: 	at optifine.OptiFineTransformer.getOptiFineResourceStream(OptiFineTransformer.java:292)
+[21:55:54] [Server thread/WARN] [/]: 	at optifine.OptiFineTransformer.getOptiFineResource(OptiFineTransformer.java:261)
+[21:55:54] [Server thread/WARN] [/]: 	at optifine.OptiFineTransformer.transform(OptiFineTransformer.java:172)
+[21:55:54] [Server thread/WARN] [/]: 	at optifine.OptiFineTransformer.transform(OptiFineTransformer.java:1)
+[21:55:54] [Server thread/WARN] [/]: 	at cpw.mods.modlauncher.TransformerHolder.transform(TransformerHolder.java:41)
+[21:55:54] [Server thread/WARN] [/]: 	at cpw.mods.modlauncher.ClassTransformer.performVote(ClassTransformer.java:179)
+[21:55:54] [Server thread/WARN] [/]: 	at cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:98)
+[21:55:54] [Server thread/WARN] [/]: 	at cpw.mods.modlauncher.TransformingClassLoader$DelegatedClassLoader.findClass(TransformingClassLoader.java:290)
+[21:55:54] [Server thread/WARN] [/]: 	at cpw.mods.modlauncher.TransformingClassLoader.loadClass(TransformingClassLoader.java:160)
+[21:55:54] [Server thread/WARN] [/]: 	at cpw.mods.modlauncher.TransformingClassLoader.loadClass(TransformingClassLoader.java:109)
+[21:55:54] [Server thread/WARN] [/]: 	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:527)
+[21:55:54] [Server thread/WARN] [/]: 	at net.minecraft.world.server.ChunkManager.func_219227_a(ChunkManager.java:277)
+[21:55:54] [Server thread/WARN] [/]: 	at java.base/java.util.concurrent.CompletableFuture$UniApply.tryFire(CompletableFuture.java:642)
+[21:55:54] [Server thread/WARN] [/]: 	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:506)
+[21:55:54] [Server thread/WARN] [/]: 	at java.base/java.util.concurrent.CompletableFuture.complete(CompletableFuture.java:2079)
+[21:55:54] [Server thread/WARN] [/]: 	at net.minecraft.world.server.ChunkHolder.func_219291_a(ChunkHolder.java:343)
+[21:55:54] [Server thread/WARN] [/]: 	at net.minecraft.world.server.TicketManager.func_219353_a(TicketManager.java:131)
+[21:55:54] [Server thread/WARN] [/]: 	at net.minecraft.world.server.ServerChunkProvider.func_217235_l(ServerChunkProvider.java:305)
+[21:55:54] [Server thread/WARN] [/]: 	at net.minecraft.world.server.ServerChunkProvider$ChunkExecutor.func_213168_p(ServerChunkProvider.java:576)
+[21:55:54] [Server thread/WARN] [/]: 	at net.minecraft.world.server.ServerChunkProvider.func_217234_d(ServerChunkProvider.java:301)
+[21:55:54] [Server thread/WARN] [/]: 	at net.minecraft.server.MinecraftServer.func_213205_aW(MinecraftServer.java:959)
+[21:55:54] [Server thread/WARN] [/]: 	at net.minecraft.server.MinecraftServer.func_213168_p(MinecraftServer.java:948)
+[21:55:54] [Server thread/WARN] [/]: 	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213161_c(ThreadTaskExecutor.java:136)
+[21:55:54] [Server thread/WARN] [/]: 	at net.minecraft.server.MinecraftServer.func_213202_o(MinecraftServer.java:934)
+[21:55:54] [Server thread/WARN] [/]: 	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:851)
+[21:55:54] [Server thread/WARN] [/]: 	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:267)
+[21:55:54] [Server thread/WARN] [/]: 	at java.base/java.lang.Thread.run(Thread.java:829)
+[21:57:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AugustoGamer_YT has made the advancement [Close Quarters]
+[22:01:08] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: AugustoGamer_YT issued server command: /gamemode survival
+[22:01:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AugustoGamer_YT: Set own game mode to Survival Mode]
+[22:01:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Made AugustoGamer_YT no longer a server operator
+[22:02:55] [Server thread/INFO] [sereneseasons/]: Season time skipped by 8933 in minecraft:the_nether
+[22:02:55] [Server thread/INFO] [sereneseasons/]: Season time skipped by 8933 in minecraft:the_end
+[22:02:55] [Server thread/INFO] [sereneseasons/]: Season time skipped by 8933 in lostcities:lostcity
+[22:02:55] [Server thread/INFO] [sereneseasons/]: Season time skipped by 8933 in minecraft:overworld
