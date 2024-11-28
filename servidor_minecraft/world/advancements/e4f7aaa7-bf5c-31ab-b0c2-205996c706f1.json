@@ -1451,6 +1451,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/fishy_business": {
+    "criteria": {
+      "cod": "2024-11-28 20:49:00 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_dark_oak_kitchen_drawer": {
     "criteria": {
       "has_log": "2024-11-27 19:24:00 +0000"

@@ -3707,3 +3707,42 @@ Caused by: java.lang.UnsupportedClassVersionError: uk/antiperson/stackmob/StackM
 [20:48:52] [Async Chat Thread - 10/INFO] [/]: <AugustoGamer_YT> ese paul se fue pasando el mar
 [20:49:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: paulzhb has made the advancement [Fishy Business]
 [20:49:31] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Squarewar issued server command: /skin set squarewar
+[20:49:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AugustoGamer_YT froze up
+[20:49:47] [Server thread/INFO] [tac/]: PENDING
+[20:50:12] [Async Chat Thread - 11/INFO] [/]: <AugustoGamer_YT> vrg podemos morir por nadar
+[20:50:40] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: paulzhb lost connection: Disconnected
+[20:50:40] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client paulzhb
+[20:50:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: paulzhb left the game
+[20:51:53] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Squarewar issued server command: /plugins
+[20:52:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Squarewar fell from a high place
+[20:52:26] [Server thread/INFO] [tac/]: PENDING
+[20:52:40] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Squarewar lost connection: Disconnected
+[20:52:40] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Squarewar
+[20:52:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Squarewar left the game
+[20:53:13] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: AugustoGamer_YT lost connection: Disconnected
+[20:53:13] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client AugustoGamer_YT
+[20:53:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AugustoGamer_YT left the game
+[20:53:22] [User Authenticator #7/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player AugustoGamer_YT is 58ca9aca-91c6-30e4-af4c-70932cce9bfa
+[20:53:23] [Netty Epoll Server IO #5/INFO] [net.minecraftforge.fml.network.FMLHandshakeHandler/]: Client attempting to join with 98 mods : notenoughcrashes, betterdungeons, auudio, unionlib, k-turrets, supermartijn642configlib, iv_tcp_v3, transliterationlib, cure, philips_ruins1_16_5, jei, incontrol, satako, tac, journeymap, controlling, comforts, travelersbackpack, sereneseasons, yungsapi, mutantbeasts, bookshelf, badmobs, farsightedmobs, sophisticatedbackpacks, mapperbase, food_cans, mts, hordes, firstaid, forge, dummmmmmy, emojiful, iv_tpp, konkrete, dsurround, sndctrl, environs, mobeffects, selene, chipped, minecraft, farmersdelight, mtsofficialpack, horsecombatcontrols, dustrial_decor, voicechat, enchdesc, swingthroughgrass, mousetweaks, toolbelt, geode, entity_culling, shouldersurfing, bunker_down, supermartijn642corelib, zombie_drops_, notenoughanimations, curios, gravestone, collective, roadstuff, mobsunscreen, appletreesrev, advancednetherite, polymorph, securitycraft, betterthirdperson, lostcities, survive, obfuscate, betterstrongholds, ambientenvironment, bear_trap, fancymenu, atlaslib, worldedit, starterkit, eatinganimation, coroutil, onlylooking, blood_and_gore, cfm, appleskin, lootr, engineersdecor, firstjoinmessage, cloth-config, nefdecomod, enhancedcelestials, trashcans, detailab, letmedespawn, fastleafdecay, bettermineshafts, fmextension_audio, exlinefurniture, effortlessbuilding
+[20:53:30] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: AugustoGamer_YT[/127.54.213.9:35735] logged in with entity id 17,168 at (85.128, 62.073, -3,064.438)
+[20:53:30] [Server thread/INFO] [tac/]: PENDING
+[20:53:31] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of AugustoGamer_YT (18)
+[20:53:31] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to AugustoGamer_YT
+[20:53:43] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 58ca9aca-91c6-30e4-af4c-70932cce9bfa
+[20:53:44] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 58ca9aca-91c6-30e4-af4c-70932cce9bfa
+[20:53:44] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player AugustoGamer_YT (58ca9aca-91c6-30e4-af4c-70932cce9bfa) successfully connected to voice chat
+[20:54:17] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: AugustoGamer_YT lost connection: Disconnected
+[20:54:17] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client AugustoGamer_YT
+[20:54:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AugustoGamer_YT left the game
+[20:54:54] [User Authenticator #8/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player AugustoGamer_YT is 58ca9aca-91c6-30e4-af4c-70932cce9bfa
+[20:54:55] [Netty Epoll Server IO #7/INFO] [net.minecraftforge.fml.network.FMLHandshakeHandler/]: Client attempting to join with 98 mods : notenoughcrashes, betterdungeons, auudio, unionlib, k-turrets, supermartijn642configlib, iv_tcp_v3, transliterationlib, cure, philips_ruins1_16_5, jei, incontrol, satako, tac, journeymap, controlling, comforts, travelersbackpack, sereneseasons, yungsapi, mutantbeasts, bookshelf, badmobs, farsightedmobs, sophisticatedbackpacks, mapperbase, food_cans, mts, hordes, firstaid, forge, dummmmmmy, emojiful, iv_tpp, konkrete, dsurround, sndctrl, environs, mobeffects, selene, chipped, minecraft, farmersdelight, mtsofficialpack, horsecombatcontrols, dustrial_decor, voicechat, enchdesc, swingthroughgrass, mousetweaks, toolbelt, geode, entity_culling, shouldersurfing, bunker_down, supermartijn642corelib, zombie_drops_, notenoughanimations, curios, gravestone, collective, roadstuff, mobsunscreen, appletreesrev, advancednetherite, polymorph, securitycraft, betterthirdperson, lostcities, survive, obfuscate, betterstrongholds, ambientenvironment, bear_trap, fancymenu, atlaslib, worldedit, starterkit, eatinganimation, coroutil, onlylooking, blood_and_gore, cfm, appleskin, lootr, engineersdecor, firstjoinmessage, cloth-config, nefdecomod, enhancedcelestials, trashcans, detailab, letmedespawn, fastleafdecay, bettermineshafts, fmextension_audio, exlinefurniture, effortlessbuilding
+[20:55:02] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: AugustoGamer_YT[/127.54.213.9:35503] logged in with entity id 17,396 at (85.128, 62.073, -3,064.438)
+[20:55:02] [Server thread/INFO] [tac/]: PENDING
+[20:55:03] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of AugustoGamer_YT (18)
+[20:55:03] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to AugustoGamer_YT
+[20:55:14] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 58ca9aca-91c6-30e4-af4c-70932cce9bfa
+[20:55:15] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 58ca9aca-91c6-30e4-af4c-70932cce9bfa
+[20:55:15] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player AugustoGamer_YT (58ca9aca-91c6-30e4-af4c-70932cce9bfa) successfully connected to voice chat
+[20:56:14] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: AugustoGamer_YT lost connection: Disconnected
+[20:56:14] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client AugustoGamer_YT
+[20:56:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AugustoGamer_YT left the game
