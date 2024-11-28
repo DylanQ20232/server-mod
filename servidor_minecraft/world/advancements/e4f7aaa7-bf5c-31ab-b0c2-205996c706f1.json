@@ -650,6 +650,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2024-11-27 19:21:06 +0000",
+      "minecraft:husk": "2024-11-28 20:25:47 +0000",
       "minecraft:zombie": "2024-11-27 19:11:56 +0000"
     },
     "done": false
@@ -1296,6 +1297,7 @@
       "minecraft:forest": "2024-11-27 18:24:03 +0000",
       "minecraft:badlands_plateau": "2024-11-27 19:27:14 +0000",
       "minecraft:taiga": "2024-11-27 18:47:33 +0000",
+      "minecraft:desert_hills": "2024-11-28 20:23:38 +0000",
       "minecraft:taiga_hills": "2024-11-27 18:51:22 +0000",
       "minecraft:desert": "2024-11-27 19:23:20 +0000",
       "minecraft:jungle": "2024-11-27 18:27:41 +0000",
