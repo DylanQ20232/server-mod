@@ -928,6 +928,7 @@
     "criteria": {
       "minecraft:pillager": "2024-11-27 19:37:01 +0000",
       "minecraft:spider": "2024-11-27 18:13:53 +0000",
+      "minecraft:husk": "2024-11-28 21:41:03 +0000",
       "minecraft:zombie": "2024-11-28 17:58:47 +0000"
     },
     "done": false
@@ -1808,6 +1809,7 @@
       "minecraft:forest": "2024-11-27 03:42:59 +0000",
       "minecraft:mountains": "2024-11-28 17:53:59 +0000",
       "minecraft:badlands_plateau": "2024-11-28 20:35:17 +0000",
+      "minecraft:desert_hills": "2024-11-28 21:40:01 +0000",
       "minecraft:desert": "2024-11-27 18:50:45 +0000",
       "minecraft:jungle": "2024-11-27 04:05:18 +0000",
       "minecraft:jungle_hills": "2024-11-27 18:32:27 +0000",
