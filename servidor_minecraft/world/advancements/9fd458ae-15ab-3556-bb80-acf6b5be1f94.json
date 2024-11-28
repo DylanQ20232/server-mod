@@ -1,10 +1,4 @@
 {
-  "cfm:recipes/cfm/spruce_kitchen_drawer": {
-    "criteria": {
-      "has_chest": "2024-11-27 19:17:02 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/securitycraft/universal_block_remover": {
     "criteria": {
       "has_iron": "2024-11-27 19:10:32 +0000"
@@ -14,6 +8,12 @@
   "minecraft:recipes/tools/fishing_rod": {
     "criteria": {
       "has_string": "2024-11-27 19:15:39 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/spruce_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2024-11-27 19:17:02 +0000"
     },
     "done": true
   },
@@ -35,15 +35,15 @@
     },
     "done": true
   },
-  "cfm:recipes/cfm/yellow_cooler": {
-    "criteria": {
-      "has_chest": "2024-11-27 19:17:02 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/iron_sword": {
     "criteria": {
       "has_iron_ingot": "2024-11-27 19:10:32 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/yellow_cooler": {
+    "criteria": {
+      "has_chest": "2024-11-27 19:17:02 +0000"
     },
     "done": true
   },
@@ -149,15 +149,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/dark_oak_button": {
-    "criteria": {
-      "has_planks": "2024-11-27 19:41:02 +0000"
-    },
-    "done": true
-  },
   "farmersdelight:recipes/farmersdelight/rice_bag": {
     "criteria": {
       "has_rice": "2024-11-27 19:08:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_button": {
+    "criteria": {
+      "has_planks": "2024-11-27 19:41:02 +0000"
     },
     "done": true
   },
@@ -263,15 +263,15 @@
     },
     "done": true
   },
-  "cfm:recipes/cfm/gray_kitchen_drawer": {
-    "criteria": {
-      "has_chest": "2024-11-27 19:17:02 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
       "has_cobblestone": "2024-11-27 18:51:39 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/gray_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2024-11-27 19:17:02 +0000"
     },
     "done": true
   },
@@ -491,15 +491,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/birch_sign": {
-    "criteria": {
-      "has_birch_planks": "2024-11-27 19:39:31 +0000"
-    },
-    "done": true
-  },
   "farmersdelight:recipes/farmersdelight/cutting_board": {
     "criteria": {
       "has_stick": "2024-11-27 18:45:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_sign": {
+    "criteria": {
+      "has_birch_planks": "2024-11-27 19:39:31 +0000"
     },
     "done": true
   },
@@ -647,15 +647,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
-    "criteria": {
-      "has_potato": "2024-11-27 19:11:02 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/food/cooked_porkchop": {
     "criteria": {
       "has_porkchop": "2024-11-27 18:56:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2024-11-27 19:11:02 +0000"
     },
     "done": true
   },
@@ -731,15 +731,15 @@
     },
     "done": true
   },
-  "cfm:recipes/cfm/pink_cooler": {
-    "criteria": {
-      "has_chest": "2024-11-27 19:17:02 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/cfm/birch_upgraded_fence": {
     "criteria": {
       "has_log": "2024-11-27 19:06:21 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/pink_cooler": {
+    "criteria": {
+      "has_chest": "2024-11-27 19:17:02 +0000"
     },
     "done": true
   },
@@ -755,12 +755,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/birch_button": {
-    "criteria": {
-      "has_planks": "2024-11-27 19:39:31 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/iron_block": {
     "criteria": {
       "has_iron_ingot": "2024-11-27 19:10:32 +0000"
@@ -770,6 +764,12 @@
   "cfm:recipes/cfm/fridge_dark": {
     "criteria": {
       "has_iron": "2024-11-27 19:10:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_button": {
+    "criteria": {
+      "has_planks": "2024-11-27 19:39:31 +0000"
     },
     "done": true
   },
@@ -947,15 +947,21 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/orange_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2024-11-27 19:17:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_fence_gate": {
     "criteria": {
       "has_planks": "2024-11-27 19:39:31 +0000"
     },
     "done": true
   },
-  "cfm:recipes/cfm/orange_kitchen_drawer": {
+  "minecraft:recipes/combat/crossbow": {
     "criteria": {
-      "has_chest": "2024-11-27 19:17:02 +0000"
+      "has_stick": "2024-11-27 18:45:48 +0000"
     },
     "done": true
   },
@@ -968,12 +974,6 @@
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/upgrade_base": {
     "criteria": {
       "has_leather": "2024-11-27 19:24:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/crossbow": {
-    "criteria": {
-      "has_stick": "2024-11-27 18:45:48 +0000"
     },
     "done": true
   },
@@ -995,15 +995,15 @@
     },
     "done": true
   },
-  "cfm:recipes/cfm/stripped_birch_mail_box": {
-    "criteria": {
-      "has_chest": "2024-11-27 19:17:02 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/food/cooked_porkchop_from_smoking": {
     "criteria": {
       "has_porkchop": "2024-11-27 18:56:38 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_birch_mail_box": {
+    "criteria": {
+      "has_chest": "2024-11-27 19:17:02 +0000"
     },
     "done": true
   },
@@ -1019,21 +1019,15 @@
     },
     "done": true
   },
-  "securitycraft:recipes/securitycraft/portable_tune_player": {
-    "criteria": {
-      "has_redstone": "2024-11-27 19:21:38 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/cfm/stripped_oak_desk": {
     "criteria": {
       "has_planks": "2024-11-27 18:45:40 +0000"
     },
     "done": true
   },
-  "cfm:recipes/cfm/stripped_oak_mail_box": {
+  "securitycraft:recipes/securitycraft/portable_tune_player": {
     "criteria": {
-      "has_chest": "2024-11-27 19:17:02 +0000"
+      "has_redstone": "2024-11-27 19:21:38 +0000"
     },
     "done": true
   },
@@ -1043,21 +1037,27 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/stripped_oak_mail_box": {
+    "criteria": {
+      "has_chest": "2024-11-27 19:17:02 +0000"
+    },
+    "done": true
+  },
   "betterdungeons:root": {
     "criteria": {
       "always": "2024-11-27 18:32:13 +0000"
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/backpack": {
-    "criteria": {
-      "has_leather": "2024-11-27 19:24:59 +0000"
-    },
-    "done": true
-  },
   "mapperbase:recipes/mapperbase_group/flatter_hammer": {
     "criteria": {
       "has_stick": "2024-11-27 18:45:48 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/backpack": {
+    "criteria": {
+      "has_leather": "2024-11-27 19:24:59 +0000"
     },
     "done": true
   },
@@ -1144,15 +1144,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/cobblestone_wall": {
-    "criteria": {
-      "has_cobblestone": "2024-11-27 18:51:39 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/barrel": {
     "criteria": {
       "has_planks": "2024-11-27 18:45:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall": {
+    "criteria": {
+      "has_cobblestone": "2024-11-27 18:51:39 +0000"
     },
     "done": true
   },
@@ -1216,15 +1216,15 @@
     },
     "done": true
   },
-  "survive:recipes/main/canteen": {
-    "criteria": {
-      "has_leather": "2024-11-27 19:24:59 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/cfm/red_kitchen_drawer": {
     "criteria": {
       "has_chest": "2024-11-27 19:17:02 +0000"
+    },
+    "done": true
+  },
+  "survive:recipes/main/canteen": {
+    "criteria": {
+      "has_leather": "2024-11-27 19:24:59 +0000"
     },
     "done": true
   },
@@ -1252,15 +1252,15 @@
     },
     "done": true
   },
-  "cfm:recipes/cfm/light_blue_cooler": {
-    "criteria": {
-      "has_chest": "2024-11-27 19:17:02 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/lantern": {
     "criteria": {
       "has_iron_nugget": "2024-11-27 19:10:05 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/light_blue_cooler": {
+    "criteria": {
+      "has_chest": "2024-11-27 19:17:02 +0000"
     },
     "done": true
   },
@@ -1270,15 +1270,15 @@
     },
     "done": true
   },
-  "cfm:recipes/cfm/stripped_acacia_mail_box": {
-    "criteria": {
-      "has_chest": "2024-11-27 19:17:02 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/cfm/post_box": {
     "criteria": {
       "has_iron": "2024-11-27 19:10:32 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_acacia_mail_box": {
+    "criteria": {
+      "has_chest": "2024-11-27 19:17:02 +0000"
     },
     "done": true
   },
@@ -1300,15 +1300,15 @@
     },
     "done": true
   },
-  "cfm:recipes/cfm/birch_kitchen_drawer": {
-    "criteria": {
-      "has_log": "2024-11-27 19:06:21 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/cfm/stone_table": {
     "criteria": {
       "has_planks": "2024-11-27 18:51:39 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/birch_kitchen_drawer": {
+    "criteria": {
+      "has_log": "2024-11-27 19:06:21 +0000"
     },
     "done": true
   },
@@ -1498,15 +1498,15 @@
     },
     "done": true
   },
-  "securitycraft:recipes/securitycraft/blacklist_module": {
-    "criteria": {
-      "has_iron": "2024-11-27 19:10:32 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/cfm/stripped_oak_table": {
     "criteria": {
       "has_planks": "2024-11-27 18:45:40 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/blacklist_module": {
+    "criteria": {
+      "has_iron": "2024-11-27 19:10:32 +0000"
     },
     "done": true
   },
@@ -1552,15 +1552,15 @@
     },
     "done": true
   },
-  "cfm:recipes/cfm/light_gray_kitchen_drawer": {
-    "criteria": {
-      "has_chest": "2024-11-27 19:17:02 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/cfm/stripped_oak_kitchen_drawer": {
     "criteria": {
       "has_log": "2024-11-27 18:45:40 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/light_gray_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2024-11-27 19:17:02 +0000"
     },
     "done": true
   },
@@ -1613,15 +1613,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/cobblestone_stairs": {
-    "criteria": {
-      "has_cobblestone": "2024-11-27 18:51:39 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/cfm/oak_kitchen_sink_dark": {
     "criteria": {
       "has_bottom": "2024-11-27 18:45:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs": {
+    "criteria": {
+      "has_cobblestone": "2024-11-27 18:51:39 +0000"
     },
     "done": true
   },
@@ -1793,21 +1793,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/iron_hoe": {
-    "criteria": {
-      "has_iron_ingot": "2024-11-27 19:10:32 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/wooden_pickaxe": {
     "criteria": {
       "has_stick": "2024-11-27 18:45:48 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/redstone_torch": {
+  "minecraft:recipes/tools/iron_hoe": {
     "criteria": {
-      "has_redstone": "2024-11-27 19:21:38 +0000"
+      "has_iron_ingot": "2024-11-27 19:10:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2024-11-27 18:50:18 +0000"
     },
     "done": true
   },
@@ -1817,9 +1817,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stone_brick_slab": {
+  "minecraft:recipes/redstone/redstone_torch": {
     "criteria": {
-      "has_stone_bricks": "2024-11-27 18:50:18 +0000"
+      "has_redstone": "2024-11-27 19:21:38 +0000"
     },
     "done": true
   },
@@ -1865,15 +1865,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/clock": {
-    "criteria": {
-      "has_redstone": "2024-11-27 19:21:38 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/stone_hoe": {
     "criteria": {
       "has_cobblestone": "2024-11-27 18:51:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2024-11-27 19:21:38 +0000"
     },
     "done": true
   },
@@ -1955,15 +1955,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/birch_door": {
-    "criteria": {
-      "has_planks": "2024-11-27 19:39:31 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/cfm/white_grill": {
     "criteria": {
       "has_iron": "2024-11-27 19:10:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_door": {
+    "criteria": {
+      "has_planks": "2024-11-27 19:39:31 +0000"
     },
     "done": true
   },
@@ -2057,15 +2057,15 @@
     },
     "done": true
   },
-  "cfm:recipes/cfm/warped_mail_box": {
-    "criteria": {
-      "has_chest": "2024-11-27 19:17:02 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/securitycraft/keycard_lv1": {
     "criteria": {
       "has_iron": "2024-11-27 19:10:32 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/warped_mail_box": {
+    "criteria": {
+      "has_chest": "2024-11-27 19:17:02 +0000"
     },
     "done": true
   },
@@ -2099,15 +2099,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/green_wool": {
-    "criteria": {
-      "has_white_wool": "2024-11-27 19:13:33 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/securitycraft/bouncing_betty": {
     "criteria": {
       "has_iron": "2024-11-27 19:10:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_wool": {
+    "criteria": {
+      "has_white_wool": "2024-11-27 19:13:33 +0000"
     },
     "done": true
   },
@@ -2147,15 +2147,15 @@
     },
     "done": true
   },
-  "securitycraft:recipes/securitycraft/keycard_lv4": {
-    "criteria": {
-      "has_iron": "2024-11-27 19:10:32 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/securitycraft/sc_manual": {
     "criteria": {
       "has_wood": "2024-11-27 18:45:40 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/keycard_lv4": {
+    "criteria": {
+      "has_iron": "2024-11-27 19:10:32 +0000"
     },
     "done": true
   },
@@ -2183,15 +2183,15 @@
     },
     "done": true
   },
-  "cfm:recipes/cfm/spatula": {
-    "criteria": {
-      "has_iron": "2024-11-27 19:10:32 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/stone_shovel": {
     "criteria": {
       "has_cobblestone": "2024-11-27 18:51:39 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/spatula": {
+    "criteria": {
+      "has_iron": "2024-11-27 19:10:32 +0000"
     },
     "done": true
   },
@@ -2357,9 +2357,9 @@
     },
     "done": true
   },
-  "cfm:recipes/cfm/dark_oak_kitchen_counter": {
+  "minecraft:recipes/tools/compass": {
     "criteria": {
-      "has_planks": "2024-11-27 19:41:02 +0000"
+      "has_redstone": "2024-11-27 19:21:38 +0000"
     },
     "done": true
   },
@@ -2369,9 +2369,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/compass": {
+  "cfm:recipes/cfm/dark_oak_kitchen_counter": {
     "criteria": {
-      "has_redstone": "2024-11-27 19:21:38 +0000"
+      "has_planks": "2024-11-27 19:41:02 +0000"
     },
     "done": true
   },
@@ -2393,15 +2393,15 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/farmersdelight/melon_juice": {
-    "criteria": {
-      "has_melon_slice": "2024-11-27 19:10:05 +0000"
-    },
-    "done": true
-  },
   "farmersdelight:recipes/farmersdelight/flint_knife": {
     "criteria": {
       "has_stick": "2024-11-27 18:45:48 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/melon_juice": {
+    "criteria": {
+      "has_melon_slice": "2024-11-27 19:10:05 +0000"
     },
     "done": true
   },
@@ -2537,15 +2537,15 @@
     },
     "done": true
   },
-  "cfm:recipes/cfm/dark_oak_park_bench": {
-    "criteria": {
-      "has_planks": "2024-11-27 19:41:02 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/birch_trapdoor": {
     "criteria": {
       "has_planks": "2024-11-27 19:39:31 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/dark_oak_park_bench": {
+    "criteria": {
+      "has_planks": "2024-11-27 19:41:02 +0000"
     },
     "done": true
   },
@@ -2585,15 +2585,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/dark_oak_fence": {
-    "criteria": {
-      "has_planks": "2024-11-27 19:41:02 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/food/cooked_porkchop_from_grill_cooking": {
     "criteria": {
       "has_porkchop": "2024-11-27 18:56:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_fence": {
+    "criteria": {
+      "has_planks": "2024-11-27 19:41:02 +0000"
     },
     "done": true
   },
@@ -2627,15 +2627,15 @@
     },
     "done": true
   },
-  "cfm:recipes/cfm/fridge_light": {
-    "criteria": {
-      "has_iron": "2024-11-27 19:10:32 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/cfm/oak_coffee_table": {
     "criteria": {
       "has_log": "2024-11-27 18:45:40 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/fridge_light": {
+    "criteria": {
+      "has_iron": "2024-11-27 19:10:32 +0000"
     },
     "done": true
   },

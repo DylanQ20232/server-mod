@@ -3563,3 +3563,60 @@ Caused by: java.lang.UnsupportedClassVersionError: uk/antiperson/stackmob/StackM
 [20:27:52] [Server thread/INFO] [The Hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=3,minDay=0,maxDay=20] to hordespawn on day 10
 [20:28:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AugustoGamer_YT was shot by Skeleton
 [20:28:55] [Server thread/INFO] [tac/]: PENDING
+[20:31:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: paulzhb was slain by Zombie
+[20:31:18] [Server thread/INFO] [tac/]: PENDING
+[20:31:24] [Async Chat Thread - 4/INFO] [/]: <paulzhb> q vrg
+[20:31:31] [Async Chat Thread - 4/INFO] [/]: <paulzhb> los zombies son invisibles
+[20:31:38] [Async Chat Thread - 4/INFO] [/]: <AugustoGamer_YT> no dijas vrg
+[20:32:59] [Async Chat Thread - 5/INFO] [/]: <AugustoGamer_YT> mija tengo un stack de lana estoy desvaligando esos globos de lana pa
+[20:33:07] [Async Chat Thread - 5/INFO] [/]: <paulzhb> jajaja
+[20:33:33] [Async Chat Thread - 5/INFO] [/]: <AugustoGamer_YT> tocaba pa
+[20:33:56] [Async Chat Thread - 5/INFO] [/]: <AugustoGamer_YT> pasa ubi pa
+[20:34:02] [Async Chat Thread - 5/INFO] [/]: <paulzhb> como xd
+[20:34:32] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of paulzhb) moved wrongly! 0.459
+[20:34:32] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of paulzhb) moved wrongly! 0.538
+[20:34:32] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of paulzhb) moved wrongly! 0.538
+[20:34:32] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of paulzhb) moved wrongly! 0.536
+[20:34:32] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of paulzhb) moved wrongly! 0.592
+[20:34:32] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of paulzhb) moved wrongly! 0.683
+[20:34:32] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of paulzhb) moved wrongly! 0.817
+[20:34:32] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of paulzhb) moved wrongly! 0.935
+[20:34:33] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of paulzhb) moved wrongly! 1.107
+[20:34:33] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of paulzhb) moved wrongly! 2.342
+[20:34:33] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of paulzhb) moved wrongly! 2.138
+[20:34:33] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of paulzhb) moved wrongly! 2.352
+[20:34:33] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of paulzhb) moved wrongly! 2.352
+[20:34:33] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of paulzhb) moved wrongly! 2.352
+[20:34:33] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of paulzhb) moved wrongly! 2.148
+[20:34:33] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of paulzhb) moved wrongly! 2.362
+[20:34:33] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of paulzhb) moved wrongly! 2.148
+[20:34:33] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of paulzhb) moved wrongly! 2.371
+[20:34:33] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of paulzhb) moved wrongly! 2.371
+[20:34:33] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of paulzhb) moved wrongly! 2.157
+[20:34:33] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of paulzhb) moved wrongly! 2.379
+[20:34:33] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of paulzhb) moved wrongly! 2.172
+[20:34:33] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of paulzhb) moved wrongly! 1.964
+[20:34:33] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of paulzhb) moved wrongly! 2.393
+[20:34:33] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of paulzhb) moved wrongly! 2.393
+[20:34:33] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of paulzhb) moved wrongly! 2.186
+[20:35:03] [Async Chat Thread - 6/INFO] [/]: <AugustoGamer_YT> pasa cord
+[20:35:47] [User Authenticator #3/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Squarewar is 9fd458ae-15ab-3556-bb80-acf6b5be1f94
+[20:35:48] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.fml.network.FMLHandshakeHandler/]: Client attempting to join with 98 mods : notenoughcrashes, betterdungeons, auudio, unionlib, k-turrets, supermartijn642configlib, iv_tcp_v3, transliterationlib, cure, philips_ruins1_16_5, jei, incontrol, satako, tac, journeymap, controlling, comforts, travelersbackpack, sereneseasons, yungsapi, mutantbeasts, bookshelf, badmobs, farsightedmobs, sophisticatedbackpacks, mapperbase, food_cans, mts, hordes, firstaid, forge, dummmmmmy, emojiful, iv_tpp, konkrete, dsurround, sndctrl, environs, mobeffects, selene, chipped, minecraft, farmersdelight, mtsofficialpack, horsecombatcontrols, dustrial_decor, voicechat, enchdesc, swingthroughgrass, mousetweaks, toolbelt, geode, entity_culling, shouldersurfing, bunker_down, supermartijn642corelib, zombie_drops_, notenoughanimations, curios, gravestone, collective, roadstuff, mobsunscreen, appletreesrev, advancednetherite, polymorph, securitycraft, betterthirdperson, lostcities, survive, obfuscate, betterstrongholds, ambientenvironment, bear_trap, fancymenu, atlaslib, worldedit, starterkit, eatinganimation, coroutil, onlylooking, blood_and_gore, cfm, appleskin, lootr, engineersdecor, firstjoinmessage, cloth-config, nefdecomod, enhancedcelestials, trashcans, detailab, letmedespawn, fastleafdecay, bettermineshafts, fmextension_audio, exlinefurniture, effortlessbuilding
+[20:35:52] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Squarewar[/127.118.227.254:41633] logged in with entity id 6,356 at (-36.315, 75, -186.085)
+[20:35:52] [Server thread/INFO] [tac/]: PENDING
+[20:35:53] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Squarewar (18)
+[20:35:53] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Squarewar
+[20:36:04] [Async Chat Thread - 7/INFO] [/]: <AugustoGamer_YT> entren al discor mejor para hablar
+[20:36:11] [Async Chat Thread - 7/INFO] [/]: <Squarewar> klk
+[20:36:18] [Async Chat Thread - 7/INFO] [/]: <Squarewar> hagan grupo pa hablar
+[20:36:20] [Async Chat Thread - 7/INFO] [/]: <AugustoGamer_YT> klk
+[20:36:21] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 9fd458ae-15ab-3556-bb80-acf6b5be1f94
+[20:36:22] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 9fd458ae-15ab-3556-bb80-acf6b5be1f94
+[20:36:22] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Squarewar (9fd458ae-15ab-3556-bb80-acf6b5be1f94) successfully connected to voice chat
+[20:36:23] [Async Chat Thread - 7/INFO] [/]: <paulzhb> X:90 z: -3173 y: 70
+[20:36:29] [Async Chat Thread - 7/INFO] [/]: <Squarewar> zzz
+[20:36:36] [Async Chat Thread - 7/INFO] [/]: <Squarewar> quep aso con mis cosas
+[20:36:53] [Async Chat Thread - 7/INFO] [/]: <Squarewar> no tengo na ni los puntos
+[20:37:00] [Async Chat Thread - 7/INFO] [/]: <AugustoGamer_YT> esa son las cordenas del Squarewar
+[20:39:23] [Async Chat Thread - 8/INFO] [/]: <AugustoGamer_YT> paul estoy a 900 m de tu lugar
+[20:39:25] [Async Chat Thread - 8/INFO] [/]: <paulzhb> duerman

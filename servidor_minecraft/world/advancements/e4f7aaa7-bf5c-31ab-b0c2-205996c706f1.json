@@ -651,7 +651,8 @@
     "criteria": {
       "minecraft:pillager": "2024-11-27 19:21:06 +0000",
       "minecraft:husk": "2024-11-28 20:25:47 +0000",
-      "minecraft:zombie": "2024-11-27 19:11:56 +0000"
+      "minecraft:zombie": "2024-11-27 19:11:56 +0000",
+      "minecraft:zombie_villager": "2024-11-28 20:27:18 +0000"
     },
     "done": false
   },
@@ -1762,6 +1763,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_reeds": "2024-11-28 20:33:34 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_oak_kitchen_drawer": {
     "criteria": {
       "has_log": "2024-11-27 18:29:34 +0000"
@@ -2417,6 +2424,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2024-11-28 20:33:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/loom": {
     "criteria": {
       "has_string": "2024-11-27 18:45:07 +0000"
@@ -2918,6 +2931,12 @@
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "in_water": "2024-11-27 18:28:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2024-11-28 20:31:14 +0000"
     },
     "done": true
   },
