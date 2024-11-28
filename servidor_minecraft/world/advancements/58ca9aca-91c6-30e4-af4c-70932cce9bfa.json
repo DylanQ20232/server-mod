@@ -221,6 +221,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2024-11-28 17:55:32 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/pink_kitchen_drawer": {
     "criteria": {
       "has_chest": "2024-11-27 19:41:13 +0000"
@@ -1492,6 +1498,7 @@
     "criteria": {
       "minecraft:jungle_edge": "2024-11-27 18:37:18 +0000",
       "minecraft:forest": "2024-11-27 03:42:59 +0000",
+      "minecraft:mountains": "2024-11-28 17:53:59 +0000",
       "minecraft:desert": "2024-11-27 18:50:45 +0000",
       "minecraft:jungle": "2024-11-27 04:05:18 +0000",
       "minecraft:jungle_hills": "2024-11-27 18:32:27 +0000",
@@ -3334,6 +3341,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2024-11-28 17:56:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite": {
     "criteria": {
       "has_stone": "2024-11-27 19:33:24 +0000"
@@ -3469,6 +3482,12 @@
   "cfm:recipes/cfm/andesite_bedside_cabinet": {
     "criteria": {
       "has_planks": "2024-11-27 19:33:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2024-11-28 17:56:07 +0000"
     },
     "done": true
   },
