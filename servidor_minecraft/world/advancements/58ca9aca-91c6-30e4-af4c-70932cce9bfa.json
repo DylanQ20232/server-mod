@@ -217,6 +217,7 @@
   },
   "betterdungeons:all_dungeons": {
     "criteria": {
+      "in_better_zombie_dungeon": "2024-11-28 18:23:22 +0000",
       "in_better_spider_dungeon": "2024-11-27 18:38:39 +0000"
     },
     "done": false
@@ -623,6 +624,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/light_gray_picket_fence": {
+    "criteria": {
+      "has_concrete": "2024-11-28 18:18:15 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/smoking_upgrade_from_smelting_upgrade": {
     "criteria": {
       "has_smelting_upgrade": "2024-11-27 03:42:59 +0000"
@@ -656,6 +663,12 @@
   "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-11-27 19:33:24 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/roasted_mutton_chops": {
+    "criteria": {
+      "has_mutton": "2024-11-28 18:22:27 +0000"
     },
     "done": true
   },
@@ -1030,6 +1043,12 @@
   "survive:recipes/main/white_washcloth": {
     "criteria": {
       "has_string": "2024-11-27 03:55:15 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/mutton_wrap": {
+    "criteria": {
+      "has_mutton": "2024-11-28 18:22:27 +0000"
     },
     "done": true
   },
@@ -1513,6 +1532,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2024-11-28 18:25:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone": {
     "criteria": {
       "has_cobblestone": "2024-11-27 04:05:15 +0000"
@@ -1528,9 +1553,14 @@
       "minecraft:jungle": "2024-11-27 04:05:18 +0000",
       "minecraft:jungle_hills": "2024-11-27 18:32:27 +0000",
       "minecraft:badlands": "2024-11-27 18:52:16 +0000",
+      "minecraft:beach": "2024-11-28 18:17:14 +0000",
+      "minecraft:dark_forest": "2024-11-28 18:14:39 +0000",
       "minecraft:river": "2024-11-27 03:54:43 +0000",
+      "minecraft:wooded_mountains": "2024-11-28 18:14:46 +0000",
       "minecraft:wooded_hills": "2024-11-27 18:29:00 +0000",
+      "minecraft:stone_shore": "2024-11-28 18:15:54 +0000",
       "minecraft:wooded_badlands_plateau": "2024-11-27 18:57:00 +0000",
+      "minecraft:savanna": "2024-11-28 18:19:52 +0000",
       "minecraft:plains": "2024-11-27 19:25:00 +0000"
     },
     "done": false
@@ -2268,6 +2298,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/light_gray_picket_gate": {
+    "criteria": {
+      "has_concrete": "2024-11-28 18:18:15 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/oak_blinds": {
     "criteria": {
       "has_log": "2024-11-27 18:06:25 +0000"
@@ -2826,6 +2862,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2024-11-28 18:25:10 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/warped_kitchen_drawer": {
     "criteria": {
       "has_chest": "2024-11-27 19:41:13 +0000"
@@ -3144,6 +3186,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2024-11-28 18:07:45 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_oak_bedside_cabinet": {
     "criteria": {
       "has_planks": "2024-11-27 18:06:25 +0000"
@@ -3183,6 +3231,12 @@
   "cfm:recipes/cfm/spatula": {
     "criteria": {
       "has_iron": "2024-11-27 18:53:30 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:zombie_dungeon": {
+    "criteria": {
+      "in_better_zombie_dungeon": "2024-11-28 18:23:22 +0000"
     },
     "done": true
   },
@@ -3276,9 +3330,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2024-11-28 18:25:10 +0000"
+    },
+    "done": true
+  },
   "roadstuff:recipes/roadstuff_group/lime_traffic_barrel": {
     "criteria": {
       "has_bitumen": "2024-11-27 18:33:38 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/shepherds_pie_block": {
+    "criteria": {
+      "has_cooked_mutton": "2024-11-28 18:22:27 +0000"
     },
     "done": true
   },

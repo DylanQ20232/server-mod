@@ -3542,3 +3542,39 @@ Caused by: java.lang.UnsupportedClassVersionError: uk/antiperson/stackmob/StackM
 [18:09:20] [Server thread/INFO] [sereneseasons/]: Season time skipped by 10991 in lostcities:lostcity
 [18:09:20] [Server thread/INFO] [sereneseasons/]: Season time skipped by 10991 in minecraft:overworld
 [18:10:21] [Server thread/ERROR] [sophisticatedbackpacks/]: Error getting backpack wrapper - Unable to find backpack at slot index 1 in "main" inventory handler
+[18:13:31] [Worker-Main-25/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id nefdecomod:illager_lady_entity
+[18:13:31] [Worker-Main-25/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id nefdecomod:old_villager
+[18:14:24] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=352, y=35, z=-1614} but found not block entity block Block{minecraft:diorite} at location
+[18:16:26] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=274, y=37, z=-1459} but found not block entity block Block{minecraft:granite} at location
+[18:16:26] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=274, y=37, z=-1458} but found not block entity block Block{minecraft:granite} at location
+[18:16:26] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=274, y=37, z=-1461} but found not block entity block Block{minecraft:stone} at location
+[18:16:26] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=276, y=38, z=-1461} but found not block entity block Block{minecraft:stone} at location
+[18:16:26] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=274, y=37, z=-1462} but found not block entity block Block{minecraft:cave_air} at location
+[18:20:16] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=731, y=44, z=-1296} but found not block entity block Block{minecraft:stone} at location
+[18:20:16] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=730, y=44, z=-1296} but found not block entity block Block{minecraft:stone} at location
+[18:20:16] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=734, y=42, z=-1296} but found not block entity block Block{minecraft:stone} at location
+[18:20:16] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=731, y=42, z=-1296} but found not block entity block Block{minecraft:stone} at location
+[18:20:16] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=733, y=44, z=-1296} but found not block entity block Block{minecraft:stone} at location
+[18:20:16] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=730, y=42, z=-1296} but found not block entity block Block{minecraft:stone} at location
+[18:20:16] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=733, y=42, z=-1296} but found not block entity block Block{minecraft:stone} at location
+[18:20:16] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=734, y=44, z=-1296} but found not block entity block Block{minecraft:diorite} at location
+[18:20:57] [Server thread/INFO] [sereneseasons/]: Season time skipped by 10046 in minecraft:the_nether
+[18:20:57] [Server thread/INFO] [sereneseasons/]: Season time skipped by 10046 in minecraft:the_end
+[18:20:57] [Server thread/INFO] [sereneseasons/]: Season time skipped by 10046 in lostcities:lostcity
+[18:20:57] [Server thread/INFO] [sereneseasons/]: Season time skipped by 10046 in minecraft:overworld
+[18:23:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AugustoGamer_YT has made the advancement [When in Rome]
+[18:27:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AugustoGamer_YT was slain by Zombie
+[18:27:29] [Server thread/INFO] [tac/]: PENDING
+[18:28:01] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: AugustoGamer_YT issued server command: /gamemode creative
+[18:28:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AugustoGamer_YT: Set own game mode to Creative Mode]
+[18:28:52] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: AugustoGamer_YT issued server command: /gamemode survival
+[18:28:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AugustoGamer_YT: Set own game mode to Survival Mode]
+[18:28:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Made AugustoGamer_YT no longer a server operator
+[18:29:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AugustoGamer_YT was slain by Zombie
+[18:29:34] [Server thread/INFO] [tac/]: PENDING
+[18:29:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Made AugustoGamer_YT a server operator
+[18:29:44] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: AugustoGamer_YT issued server command: /gamemode creative
+[18:29:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AugustoGamer_YT: Set own game mode to Creative Mode]
+[18:30:22] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: AugustoGamer_YT issued server command: /gamemode survival
+[18:30:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AugustoGamer_YT: Set own game mode to Survival Mode]
+[18:30:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Made AugustoGamer_YT no longer a server operator
