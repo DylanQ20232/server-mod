@@ -3582,3 +3582,25 @@ Caused by: java.lang.UnsupportedClassVersionError: uk/antiperson/stackmob/StackM
 [18:33:10] [Server thread/INFO] [sereneseasons/]: Season time skipped by 9341 in minecraft:the_end
 [18:33:10] [Server thread/INFO] [sereneseasons/]: Season time skipped by 9341 in lostcities:lostcity
 [18:33:10] [Server thread/INFO] [sereneseasons/]: Season time skipped by 9341 in minecraft:overworld
+[18:45:34] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: AugustoGamer_YT lost connection: Disconnected
+[18:45:34] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client AugustoGamer_YT
+[18:45:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AugustoGamer_YT left the game
+[18:45:45] [Server thread/INFO] [com.sk89q.worldedit.extension.platform.PlatformManager/]: Unregistering com.sk89q.worldedit.forge.ForgePlatform from WorldEdit
+[18:45:45] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[18:45:45] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[18:45:46] [Server thread/INFO] [net.skinsrestorer.bukkit.SRBukkitBootstrap/]: [SkinsRestorer] Disabling SkinsRestorer v15.4.4
+[18:45:46] [Server thread/INFO] [com.comphenix.protocol.ProtocolLib/]: [ProtocolLib] Disabling ProtocolLib v5.3.0
+[18:45:46] [Server thread/INFO] [me.lucko.spark.bukkit.BukkitSparkPlugin/]: [spark] Disabling spark v1.10.71
+[18:45:46] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[18:45:46] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[18:45:46] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[18:45:46] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[DIM-1]'/minecraft:the_nether
+[18:45:46] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[18:45:46] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[DIM1]'/minecraft:the_end
+[18:45:46] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[18:45:46] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[lostcity]'/lostcities:lostcity
+[18:45:46] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (lostcity): All chunks are saved
+[18:45:46] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[18:45:46] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[18:45:46] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[18:45:46] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (lostcity): All chunks are saved
