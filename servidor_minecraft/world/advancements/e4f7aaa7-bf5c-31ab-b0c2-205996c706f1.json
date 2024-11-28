@@ -746,6 +746,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2024-11-28 20:45:12 +0000"
+    },
+    "done": true
+  },
   "roadstuff:recipes/roadstuff_group/red_bollard": {
     "criteria": {
       "has_stick": "2024-11-27 18:29:47 +0000"
@@ -1379,6 +1385,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2024-11-28 20:36:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_pickaxe": {
     "criteria": {
       "has_cobblestone": "2024-11-27 18:43:12 +0000"
@@ -1442,6 +1454,12 @@
   "cfm:recipes/cfm/stripped_dark_oak_kitchen_drawer": {
     "criteria": {
       "has_log": "2024-11-27 19:24:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2024-11-28 20:45:12 +0000"
     },
     "done": true
   },
@@ -1544,6 +1562,12 @@
   "cfm:recipes/cfm/dark_oak_bedside_cabinet": {
     "criteria": {
       "has_log": "2024-11-27 19:24:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_grill_cooking": {
+    "criteria": {
+      "has_cod": "2024-11-28 20:45:12 +0000"
     },
     "done": true
   },
@@ -1821,6 +1845,12 @@
   "cfm:recipes/cfm/stone_desk": {
     "criteria": {
       "has_planks": "2024-11-27 18:43:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2024-11-28 20:45:12 +0000"
     },
     "done": true
   },

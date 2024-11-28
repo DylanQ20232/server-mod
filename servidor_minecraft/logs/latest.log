@@ -3620,3 +3620,90 @@ Caused by: java.lang.UnsupportedClassVersionError: uk/antiperson/stackmob/StackM
 [20:37:00] [Async Chat Thread - 7/INFO] [/]: <AugustoGamer_YT> esa son las cordenas del Squarewar
 [20:39:23] [Async Chat Thread - 8/INFO] [/]: <AugustoGamer_YT> paul estoy a 900 m de tu lugar
 [20:39:25] [Async Chat Thread - 8/INFO] [/]: <paulzhb> duerman
+[20:39:48] [Async Chat Thread - 8/INFO] [/]: <AugustoGamer_YT> no puedo tengo enimigos a fuera
+[20:39:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AugustoGamer_YT has made the advancement [Isn't It Iron Pick]
+[20:40:03] [Server thread/INFO] [tac/]: PENDING
+[20:40:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Squarewar was slain by Zombie
+[20:40:32] [Server thread/INFO] [tac/]: PENDING
+[20:40:41] [Async Chat Thread - 8/INFO] [/]: <Squarewar> pues mira ya puedo dormir x
+[20:40:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: paulzhb was shot by Pillager
+[20:40:47] [Server thread/INFO] [tac/]: PENDING
+[20:41:13] [Async Chat Thread - 8/INFO] [/]: <Squarewar> una horda esta activa?
+[20:41:14] [Async Chat Thread - 8/INFO] [/]: <Squarewar> hp
+[20:41:19] [Async Chat Thread - 8/INFO] [/]: <Squarewar> no tengo na
+[20:41:23] [Async Chat Thread - 8/INFO] [/]: <AugustoGamer_YT> para usted a mi ya me paso
+[20:41:49] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: paulzhb lost connection: Disconnected
+[20:41:49] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client paulzhb
+[20:41:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: paulzhb left the game
+[20:41:56] [User Authenticator #4/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player paulzhb is e4f7aaa7-bf5c-31ab-b0c2-205996c706f1
+[20:41:57] [Netty Epoll Server IO #3/INFO] [net.minecraftforge.fml.network.FMLHandshakeHandler/]: Client attempting to join with 98 mods : notenoughcrashes, betterdungeons, auudio, unionlib, k-turrets, supermartijn642configlib, iv_tcp_v3, transliterationlib, cure, philips_ruins1_16_5, jei, incontrol, satako, tac, journeymap, controlling, comforts, travelersbackpack, sereneseasons, yungsapi, mutantbeasts, bookshelf, badmobs, farsightedmobs, sophisticatedbackpacks, mapperbase, food_cans, mts, hordes, firstaid, forge, dummmmmmy, emojiful, iv_tpp, konkrete, dsurround, sndctrl, environs, mobeffects, selene, chipped, minecraft, farmersdelight, mtsofficialpack, horsecombatcontrols, dustrial_decor, voicechat, enchdesc, swingthroughgrass, mousetweaks, toolbelt, geode, entity_culling, shouldersurfing, bunker_down, supermartijn642corelib, zombie_drops_, notenoughanimations, curios, gravestone, collective, roadstuff, mobsunscreen, appletreesrev, advancednetherite, polymorph, securitycraft, betterthirdperson, lostcities, survive, obfuscate, betterstrongholds, ambientenvironment, bear_trap, fancymenu, atlaslib, worldedit, starterkit, eatinganimation, coroutil, onlylooking, blood_and_gore, cfm, appleskin, lootr, engineersdecor, firstjoinmessage, cloth-config, nefdecomod, enhancedcelestials, trashcans, detailab, letmedespawn, fastleafdecay, bettermineshafts, fmextension_audio, exlinefurniture, effortlessbuilding
+[20:42:01] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: paulzhb[/127.241.70.199:36811] logged in with entity id 10,129 at (114.902, 81, -3,174.027)
+[20:42:01] [Server thread/INFO] [tac/]: PENDING
+[20:42:01] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of paulzhb (18)
+[20:42:01] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to paulzhb
+[20:42:08] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player e4f7aaa7-bf5c-31ab-b0c2-205996c706f1
+[20:42:09] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player e4f7aaa7-bf5c-31ab-b0c2-205996c706f1
+[20:42:09] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player paulzhb (e4f7aaa7-bf5c-31ab-b0c2-205996c706f1) successfully connected to voice chat
+[20:42:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AugustoGamer_YT was shot by Pillager
+[20:42:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: paulzhb was shot by Pillager
+[20:42:40] [Server thread/INFO] [tac/]: PENDING
+[20:42:41] [Async Chat Thread - 9/INFO] [/]: <Squarewar> xd
+[20:42:42] [Server thread/INFO] [tac/]: PENDING
+[20:42:54] [Async Chat Thread - 9/INFO] [/]: <paulzhb> mija mi tumba desaparecio
+[20:42:56] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Squarewar issued server command: /skin set squarewar
+[20:43:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AugustoGamer_YT has made the advancement [Cover Me With Diamonds]
+[20:43:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Squarewar was shot by Skeleton
+[20:43:20] [Server thread/INFO] [tac/]: PENDING
+[20:43:42] [Server thread/INFO] [The Hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=30,minDay=0,maxDay=20] to hordespawn on day 15
+[20:43:42] [Server thread/INFO] [The Hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=3,minDay=0,maxDay=20] to hordespawn on day 15
+[20:43:42] [Server thread/INFO] [The Hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=30,minDay=0,maxDay=20] to hordespawn on day 10
+[20:43:42] [Server thread/INFO] [The Hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=3,minDay=0,maxDay=20] to hordespawn on day 10
+[20:43:44] [Async Chat Thread - 9/INFO] [/]: <paulzhb> duerman
+[20:43:49] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Squarewar lost connection: Timed out
+[20:43:49] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Squarewar
+[20:43:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Squarewar left the game
+[20:44:07] [User Authenticator #5/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Squarewar is 9fd458ae-15ab-3556-bb80-acf6b5be1f94
+[20:44:07] [Netty Epoll Server IO #5/INFO] [net.minecraftforge.fml.network.FMLHandshakeHandler/]: Client attempting to join with 98 mods : notenoughcrashes, betterdungeons, auudio, unionlib, k-turrets, supermartijn642configlib, iv_tcp_v3, transliterationlib, cure, philips_ruins1_16_5, jei, incontrol, satako, tac, journeymap, controlling, comforts, travelersbackpack, sereneseasons, yungsapi, mutantbeasts, bookshelf, badmobs, farsightedmobs, sophisticatedbackpacks, mapperbase, food_cans, mts, hordes, firstaid, forge, dummmmmmy, emojiful, iv_tpp, konkrete, dsurround, sndctrl, environs, mobeffects, selene, chipped, minecraft, farmersdelight, mtsofficialpack, horsecombatcontrols, dustrial_decor, voicechat, enchdesc, swingthroughgrass, mousetweaks, toolbelt, geode, entity_culling, shouldersurfing, bunker_down, supermartijn642corelib, zombie_drops_, notenoughanimations, curios, gravestone, collective, roadstuff, mobsunscreen, appletreesrev, advancednetherite, polymorph, securitycraft, betterthirdperson, lostcities, survive, obfuscate, betterstrongholds, ambientenvironment, bear_trap, fancymenu, atlaslib, worldedit, starterkit, eatinganimation, coroutil, onlylooking, blood_and_gore, cfm, appleskin, lootr, engineersdecor, firstjoinmessage, cloth-config, nefdecomod, enhancedcelestials, trashcans, detailab, letmedespawn, fastleafdecay, bettermineshafts, fmextension_audio, exlinefurniture, effortlessbuilding
+[20:44:11] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Squarewar[/127.118.227.254:41587] logged in with entity id 11,386 at (-128.747, 33.031, -94.025)
+[20:44:11] [Server thread/INFO] [tac/]: PENDING
+[20:44:12] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Squarewar (18)
+[20:44:12] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Squarewar
+[20:44:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AugustoGamer_YT was shot by Pillager
+[20:44:19] [Server thread/INFO] [tac/]: PENDING
+[20:44:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: paulzhb was slain by Zombie
+[20:44:24] [Server thread/INFO] [tac/]: PENDING
+[20:44:29] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 9fd458ae-15ab-3556-bb80-acf6b5be1f94
+[20:44:30] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 9fd458ae-15ab-3556-bb80-acf6b5be1f94
+[20:44:30] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Squarewar (9fd458ae-15ab-3556-bb80-acf6b5be1f94) successfully connected to voice chat
+[20:44:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AugustoGamer_YT was shot by Pillager
+[20:44:32] [Server thread/INFO] [tac/]: PENDING
+[20:44:43] [Async Chat Thread - 9/INFO] [/]: <Squarewar> diablo que lag diomio
+[20:44:55] [Server thread/INFO] [The Hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=30,minDay=0,maxDay=20] to hordespawn on day 10
+[20:44:55] [Server thread/INFO] [The Hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=3,minDay=0,maxDay=20] to hordespawn on day 10
+[20:45:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Squarewar was shot by Skeleton
+[20:45:28] [Server thread/INFO] [tac/]: PENDING
+[20:45:45] [Server thread/INFO] [The Hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=30,minDay=0,maxDay=20] to hordespawn on day 10
+[20:45:45] [Server thread/INFO] [The Hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=3,minDay=0,maxDay=20] to hordespawn on day 10
+[20:46:35] [Server thread/INFO] [The Hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=30,minDay=0,maxDay=20] to hordespawn on day 10
+[20:46:35] [Server thread/INFO] [The Hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=3,minDay=0,maxDay=20] to hordespawn on day 10
+[20:47:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Squarewar was shot by Skeleton
+[20:47:25] [Server thread/INFO] [The Hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=30,minDay=0,maxDay=20] to hordespawn on day 10
+[20:47:25] [Server thread/INFO] [The Hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=3,minDay=0,maxDay=20] to hordespawn on day 10
+[20:47:26] [Server thread/INFO] [tac/]: PENDING
+[20:47:57] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Squarewar lost connection: Timed out
+[20:47:57] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Squarewar
+[20:47:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Squarewar left the game
+[20:48:19] [User Authenticator #6/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Squarewar is 9fd458ae-15ab-3556-bb80-acf6b5be1f94
+[20:48:20] [Netty Epoll Server IO #7/INFO] [net.minecraftforge.fml.network.FMLHandshakeHandler/]: Client attempting to join with 98 mods : notenoughcrashes, betterdungeons, auudio, unionlib, k-turrets, supermartijn642configlib, iv_tcp_v3, transliterationlib, cure, philips_ruins1_16_5, jei, incontrol, satako, tac, journeymap, controlling, comforts, travelersbackpack, sereneseasons, yungsapi, mutantbeasts, bookshelf, badmobs, farsightedmobs, sophisticatedbackpacks, mapperbase, food_cans, mts, hordes, firstaid, forge, dummmmmmy, emojiful, iv_tpp, konkrete, dsurround, sndctrl, environs, mobeffects, selene, chipped, minecraft, farmersdelight, mtsofficialpack, horsecombatcontrols, dustrial_decor, voicechat, enchdesc, swingthroughgrass, mousetweaks, toolbelt, geode, entity_culling, shouldersurfing, bunker_down, supermartijn642corelib, zombie_drops_, notenoughanimations, curios, gravestone, collective, roadstuff, mobsunscreen, appletreesrev, advancednetherite, polymorph, securitycraft, betterthirdperson, lostcities, survive, obfuscate, betterstrongholds, ambientenvironment, bear_trap, fancymenu, atlaslib, worldedit, starterkit, eatinganimation, coroutil, onlylooking, blood_and_gore, cfm, appleskin, lootr, engineersdecor, firstjoinmessage, cloth-config, nefdecomod, enhancedcelestials, trashcans, detailab, letmedespawn, fastleafdecay, bettermineshafts, fmextension_audio, exlinefurniture, effortlessbuilding
+[20:48:30] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Squarewar[/127.118.227.254:45979] logged in with entity id 14,048 at (-128.482, 33.031, -94.551)
+[20:48:30] [Server thread/INFO] [tac/]: PENDING
+[20:48:30] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Squarewar (18)
+[20:48:30] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Squarewar
+[20:48:43] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 9fd458ae-15ab-3556-bb80-acf6b5be1f94
+[20:48:44] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 9fd458ae-15ab-3556-bb80-acf6b5be1f94
+[20:48:44] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Squarewar (9fd458ae-15ab-3556-bb80-acf6b5be1f94) successfully connected to voice chat
+[20:48:47] [Server thread/INFO] [The Hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=30,minDay=0,maxDay=20] to hordespawn on day 10
+[20:48:47] [Server thread/INFO] [The Hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=3,minDay=0,maxDay=20] to hordespawn on day 10
+[20:48:52] [Async Chat Thread - 10/INFO] [/]: <AugustoGamer_YT> ese paul se fue pasando el mar
+[20:49:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: paulzhb has made the advancement [Fishy Business]
+[20:49:31] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Squarewar issued server command: /skin set squarewar
