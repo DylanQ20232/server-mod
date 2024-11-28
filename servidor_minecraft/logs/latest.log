@@ -3578,3 +3578,7 @@ Caused by: java.lang.UnsupportedClassVersionError: uk/antiperson/stackmob/StackM
 [18:30:22] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: AugustoGamer_YT issued server command: /gamemode survival
 [18:30:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AugustoGamer_YT: Set own game mode to Survival Mode]
 [18:30:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Made AugustoGamer_YT no longer a server operator
+[18:33:10] [Server thread/INFO] [sereneseasons/]: Season time skipped by 9341 in minecraft:the_nether
+[18:33:10] [Server thread/INFO] [sereneseasons/]: Season time skipped by 9341 in minecraft:the_end
+[18:33:10] [Server thread/INFO] [sereneseasons/]: Season time skipped by 9341 in lostcities:lostcity
+[18:33:10] [Server thread/INFO] [sereneseasons/]: Season time skipped by 9341 in minecraft:overworld
